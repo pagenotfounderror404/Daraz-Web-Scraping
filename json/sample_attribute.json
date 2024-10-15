@@ -1,0 +1,881 @@
+[
+    {
+        "Category": "Cameras > Instant Camera > Instant Camera Films",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "value": []
+            },
+            {
+                "name": "Film Type",
+                "value": [
+                    "Not Specified",
+                    "ISO 100",
+                    "ISO 200",
+                    "ISO 400",
+                    "ISO 600",
+                    "ISO 800",
+                    "ISO 1000",
+                    "ISO 1200"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Model",
+                "value": []
+            },
+            {
+                "name": "Film Size",
+                "value": []
+            },
+            {
+                "name": "Number of Exposure",
+                "type": "text",
+                "value":null
+            }
+        ]
+    },
+    {
+        "Category": "Mobiles & Tablets > Mobiles",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "value": []
+            },
+            {
+                "name": "Screen Size inches",
+                "type": "list",
+                "value": [
+                    "Not Specified",
+                    "Less than 3.5 Inch",
+                    "3.6 - 4 Inch",
+                    "4.1 - 4.5 Inch",
+                    "4.6 - 5 Inch",
+                    "5.1 - 5.5 Inch",
+                    "5.6 - 6 Inch",
+                    "6.1 - 6.5 Inch",
+                    "6.6 - 7 Inch"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Network Connections",
+                "type": "list",
+                "value": [
+                    "4G",
+                    "Not Specified",
+                    "GSM",
+                    "3G",
+                    "2G",
+                    "3.5G - HSDPA",
+                    "5G"
+                ],
+                "multiselect": true
+            },
+            {
+                "name": "Rear Camera",
+                "type": "text",
+                "value":null
+            },
+            {
+                "name": "Camera Front Megapixels",
+                "type": "text",
+                "value":null
+            },
+            {
+                "name": "SIM Slots",
+                "type": "text",
+                "value":null
+            },
+            {
+                "name": "Battery Capacity",
+                "type": "list",
+                "value": [
+                    "Under 1000 mAh",
+                    "1000 - 1999 mAh",
+                    "2000 - 2999 mAh",
+                    "3000 - 3999 mAh",
+                    "4000 - 4999 mAh",
+                    "Not Specified",
+                    "5000 - 5999 mAh",
+                    "6000 - 6999 mAh",
+                    "7000 - 7999 mAh"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Display Protection",
+                "type": "list",
+                "value": [],
+                "multiselect": false
+            },
+            {
+                "name": "Build Type",
+                "type": "list",
+                "value": [
+                    "Not Specified",
+                    "Ceramic",
+                    "Glass",
+                    "Metal",
+                    "Plastic"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Model Year",
+                "type": "text"
+            },
+            {
+                "name": "Number of Cameras",
+                "type": "list",
+                "value": [
+                    "Not Specified",
+                    "6",
+                    "5",
+                    "7",
+                    "9",
+                    "8",
+                    "2",
+                    "3",
+                    "4",
+                    "1",
+                    "0"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Fast Charging",
+                "type": "list",
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Sports & Outdoors > Accessories > Performance & GPS Trackers > Running",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "value": []
+            },
+            {
+                "name": "Model",
+                "type": "list",
+                "value": []
+            },
+            {
+                "name": "Color Family",
+                "type": "list",
+                "value": [
+                    "Black",
+                    "Beige",
+                    "Blue",
+                    "Brown",
+                    "Gold",
+                    "Green",
+                    "Grey",
+                    "Multicolor",
+                    "Olive",
+                    "Orange",
+                    "Pink",
+                    "Purple",
+                    "Red",
+                    "Silver",
+                    "Turquoise",
+                    "Violet",
+                    "White",
+                    "Yellow",
+                    "Clear",
+                    "Apricot",
+                    "Aqua",
+                    "Avocado",
+                    "Blueberry",
+                    "Blush Pink",
+                    "Bronze",
+                    "Charcoal",
+                    "Cherry",
+                    "Chestnut",
+                    "Chili Red",
+                    "Chocolate",
+                    "Cinnamon",
+                    "Coffee",
+                    "Cream",
+                    "Floral",
+                    "Galaxy",
+                    "Hotpink",
+                    "Ivory",
+                    "Jade",
+                    "Khaki",
+                    "Lavender",
+                    "Magenta",
+                    "Mahogany",
+                    "Mango",
+                    "Maroon",
+                    "Neon",
+                    "Tan",
+                    "Watermelon red",
+                    "Lake Blue",
+                    "Lemon Yellow",
+                    "Army Green",
+                    "Rose",
+                    "Dark blue",
+                    "Camel",
+                    "Burgundy",
+                    "Light blue",
+                    "Champagne",
+                    "Light green",
+                    "Dark Brown",
+                    "Navy Blue",
+                    "Light Grey",
+                    "Off White",
+                    "Light yellow",
+                    "Emerald Green",
+                    "Fluorescent Green",
+                    "Fluorescent Yellow",
+                    "Deep green",
+                    "Not Specified",
+                    "Neutral",
+                    "Cyan",
+                    "Multi",
+                    "Matte Black",
+                    "Rose Gold",
+                    "Peach",
+                    "Mint",
+                    "Peanut",
+                    "Rainbow",
+                    "Deep Blue",
+                    "Jet Black",
+                    "\u2026",
+                    "Dark Grey",
+                    "Fuchsia",
+                    "Blue Gray",
+                    "Orchid Grey",
+                    "Sand",
+                    "Teal",
+                    "Cacao",
+                    "Wither Black",
+                    "Sand Brown",
+                    "Dark Ash",
+                    "Deep Gray",
+                    "Champagne Pink",
+                    "Light Ash",
+                    "Antique White",
+                    "Ochre Brown",
+                    "Glitter Black",
+                    "Glitter Blue",
+                    "Metallic Cherry",
+                    "Metallic Lilac",
+                    "Metallic Teal",
+                    "Space Grey",
+                    "Light Black",
+                    "Rose Red",
+                    "Deep Black",
+                    "Glow Yellow",
+                    "Neo Bright"
+                ],
+                "multiselect": true
+            }
+        ]
+    },
+    {
+        "Category": "Fashion > Girls > Clothing > Dresses",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "value": [
+                    "Short",
+                    "Long",
+                    "Mini",
+                    "Midi",
+                    "Knee Length",
+                    "Ankle Length",
+                    "Floor Length",
+                    "Above Knee",
+                    "Maxi",
+                    "Below Knee"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Model",
+                "type": "list",
+                "value": []
+            },
+            {
+                "name": "Number Of Pieces",
+                "type": "list",
+                "value": []
+            },
+            {
+                "name": "Dress Shape",
+                "type": "list",
+                "value": [
+                    "1 Piece",
+                    "2 pieces",
+                    "3 pieces",
+                    "4 pieces",
+                    "5 pieces",
+                    "more than 5"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Kid years",
+                "type": "list",
+                "value": [
+                    "Babydoll/Smock Dresses",
+                    "Cami/Slip Dresses",
+                    "Pencil Dresses",
+                    "Shift Dresses",
+                    "Swing Dresses",
+                    "T-Shirt Dresses",
+                    "Tulip Dresses",
+                    "Wrap Dresses",
+                    "Asymmetric Dresses",
+                    "A-Line Dresses",
+                    "Peplum Dresses",
+                    "Formal Dresses",
+                    "Shirt Dresses",
+                    "Sweater Dresses",
+                    "Tunic Dresses",
+                    "Bodycon Dresses",
+                    "Wedding Dresses"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Dress Length",
+                "type": "list",
+                "value": [
+                    "Babies (0-2yrs)",
+                    "Pre School (2-5yrs)",
+                    "Kids (6-10yrs)",
+                    "Teens (11-16yrs)"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Pattern",
+                "type": "list",
+                "value": [
+                    "Rhombus",
+                    "Martell/martell",
+                    "Check",
+                    "Floral",
+                    "Camouflage",
+                    "Gingham",
+                    "Plain",
+                    "Letter",
+                    "Joint",
+                    "Wave point",
+                    "Plaid",
+                    "Geometric",
+                    "Paisley",
+                    "Patchwork",
+                    "Polka Dot",
+                    "Graphic",
+                    "Animal Print",
+                    "Sequence",
+                    "Houndstooth",
+                    "Herringbone",
+                    "Splice",
+                    "Cartoon",
+                    "Brocade",
+                    "Threadwork",
+                    "Kashmiri Embroidery",
+                    "Chikan Embroidery",
+                    "Aari Embroidery",
+                    "Phulkari Embroidery",
+                    "Kantha Embroidery",
+                    "Embroidery, Sequin and/or Foil Mirror Work",
+                    "Patti Work",
+                    "Semi Stitched"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Clothing Material",
+                "type": "list",
+                "value": [
+                    "Acrylic Wool",
+                    "Chiffon",
+                    "Velvet",
+                    "Satin",
+                    "Cord",
+                    "Mohair",
+                    "Fleece",
+                    "Jersey",
+                    "Silk",
+                    "Silicone",
+                    "Shorts",
+                    "Denim",
+                    "Pants",
+                    "Cashmere",
+                    "Nylon",
+                    "Cotton",
+                    "Linen",
+                    "Polyester",
+                    "Lycra",
+                    "Wool",
+                    "Mesh",
+                    "Jute",
+                    "Crochet",
+                    "Other Material",
+                    "Leather/Suede",
+                    "Lace",
+                    "Viscose",
+                    "Carom cloth",
+                    "Asymmetrical",
+                    "Khadi",
+                    "modal",
+                    "PU Leather",
+                    "SUEDE",
+                    "Net",
+                    "GEORGETTE",
+                    "Soft Net",
+                    "Poly-cotton",
+                    "Rayon",
+                    "Serge",
+                    "Aquatimo",
+                    "Stretch Cotton",
+                    "Chanderi Silk",
+                    "Banaras Silk",
+                    "Handloom Cotton",
+                    "Kalamkari",
+                    "Ikkat",
+                    "Cambric Cotton",
+                    "Raw Silk",
+                    "Net Silk"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Sleeves",
+                "type": "list",
+                "value": [
+                    "3/4 Sleeve",
+                    "Long Sleeve",
+                    "Sleeveless",
+                    "Not Specified",
+                    "Short Sleeve"
+                ],
+                "multiselect": true
+            },
+            {
+                "name": "Blouse Sleeve Style",
+                "type": "list",
+                "value": [
+                    "Cap Sleeve",
+                    "Mandarin sleeve",
+                    "Bubble sleeve",
+                    "Puff sleeve",
+                    "Cuffed Sleeve",
+                    "Kimono sleeve",
+                    "Raglan Sleeve",
+                    "One Shoulder",
+                    "Sleeveless",
+                    "Long Sleeve",
+                    "Short Sleeve",
+                    "3/4 Length",
+                    "Off Shoulder",
+                    "Butterfly Sleeve",
+                    "Petal Sleeve",
+                    "Lantern Sleeve",
+                    "Batwing Sleeve",
+                    "Cuff Sleeve",
+                    "Flare Sleeve",
+                    "Ruffle sleeve"
+                ],
+                "multiselect": false
+            }
+        ]
+    },
+    {
+        "Category":"Computers & Laptops > Printers & Accessories > Printers > Laser Jet",
+        "Attribute":[
+            {
+                "name": "Brand",
+                "type": "list",
+                "value": [
+                    "Bar Code Printer",
+                    "Colour Laser printer",
+                    "Mono Laser printer",
+                    "Label printer",
+                    "Large-format printer",
+                    "Office Printer",
+                    "Photo Printer",
+                    "Print only (Monochrome& Color)",
+                    "3D printer",
+                    "Print only (monochrome)",
+                    "3in1 (Print, Copy, Scan)",
+                    "4in1 (print, Copy, Scan, Fax)",
+                    "Printer Consumables",
+                    "Copying",
+                    "Scanning",
+                    "Faxing",
+                    "Photo Printing",
+                    "Multi-function",
+                    "5 in 1 (print, scan, copy, wireless, fax)",
+                    "ID Card Printer"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Printer Connectivity Type",
+                "type": "list",
+                "value": [
+                    "Bar Code Printer",
+                    "Colour Laser printer",
+                    "Mono Laser printer",
+                    "Label printer",
+                    "Large-format printer",
+                    "Office Printer",
+                    "Photo Printer",
+                    "Print only (Monochrome& Color)",
+                    "3D printer",
+                    "Print only (monochrome)",
+                    "3in1 (Print, Copy, Scan)",
+                    "4in1 (print, Copy, Scan, Fax)",
+                    "Printer Consumables",
+                    "Copying",
+                    "Scanning",
+                    "Faxing",
+                    "Photo Printing",
+                    "Multi-function",
+                    "5 in 1 (print, scan, copy, wireless, fax)",
+                    "ID Card Printer"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Paper Handling",
+                "type": "list",
+                "value": [
+                    "Wireless network printing",
+                    "Wired network printing",
+                    "Wired/wireless network printing",
+                    "Not Specified",
+                    "Bluetooth",
+                    "USB",
+                    "Wireless",
+                    "Ethernet"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Print Speed CPM",
+                "type": "list",
+                "value": [
+                    "Not Specified",
+                    "A7 74mm X 105mm",
+                    "A4 210mm X 297mm",
+                    "A8 52mm X 74mm",
+                    "A6 105mm X 148mm",
+                    "A0 841mm X 1189mm",
+                    "A5 148mm X 210mm",
+                    "A3 297mm X 420mm",
+                    "A2 420mm X 594mm",
+                    "A1 594mm X 841mm"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Portable",
+                "type": "list",
+                "value": [
+                    "42",
+                    "28",
+                    "40",
+                    "34",
+                    "38",
+                    "36",
+                    "30",
+                    "32",
+                    "39",
+                    "24",
+                    "25",
+                    "27",
+                    "33",
+                    "52",
+                    "35",
+                    "Not Specified",
+                    "22",
+                    "50",
+                    "12",
+                    "19",
+                    "9",
+                    "10",
+                    "8",
+                    "21",
+                    "20",
+                    "3",
+                    "15",
+                    "16",
+                    "4",
+                    "18",
+                    "0",
+                    "1-10ppm",
+                    "11-20ppm",
+                    "21-30ppm",
+                    "31ppm and up",
+                    "23",
+                    "60",
+                    "1600",
+                    "N/A",
+                    "Testing",
+                    "6000",
+                    "M7",
+                    "TF",
+                    "1000",
+                    "20 PPM",
+                    "300mm/Sec",
+                    "7.5 ppm (black and white), 5.5 ppm (color)",
+                    "up to 26 pages per minute",
+                    "up to 27ppm",
+                    "Up to 38ppm (A4)",
+                    "Up to 7 ppm (black), up to 4 ppm (color)",
+                    "&nbsp",
+                    ".Video Format:352X288CIF AVI or 640X480CIF AVI.&nbsp",
+                    "10000",
+                    "100mm/sec",
+                    "14600",
+                    "1500",
+                    "15000",
+                    "152 mm per second",
+                    "152mm Per Second",
+                    "160 mm / sec",
+                    "160mm/Sec",
+                    "2500",
+                    "250mm/s",
+                    "250mm/sec",
+                    "26 PPM",
+                    "2700",
+                    "3000",
+                    "32 sheets",
+                    "347 / 416 cps",
+                    "35 cpm/ppm",
+                    "3800",
+                    "38PPM",
+                    "4.4 lines/sec",
+                    "5000",
+                    "52 ppm",
+                    "62 ppm",
+                    "8 Image per minute (Black), 4 Image per minute (Color)",
+                    "80 mm/s (max)",
+                    "8300",
+                    "8400",
+                    "9000",
+                    "A885BL",
+                    "ADATA PT100",
+                    "As fast as 8.5 sec",
+                    "Charging Cable1 x&nbsp",
+                    "Color: up to 36 ppm & Black: up to 36 ppm",
+                    "Compatible: 4.7-5.5\" phone &nbsp",
+                    "Fully plug-and-play&nbsp",
+                    "H150",
+                    "Hand print",
+                    "Hnad Print",
+                    "http://camerabazar.net/product/kenko-49mm-uv-filter/",
+                    "http://camerabazar.net/product/yongnuo-yn300-ii-led-video-light-for-camera-camcorder-2/",
+                    "Max 150mm/s",
+                    "na",
+                    "Others Power: DC 12V 3A&nbsp",
+                    "Paper feeding speed up to 7ips (178mm/sec)",
+                    "Print Speed (Black) 7.0ipm Print Speed (Colour) 4.8ipm",
+                    "Print Speed (Black) : 47 ppm in Letter and Duplex Printing: 28 ipm in Letter",
+                    "Print Speed (Color) 4.8 ipm Print Speed (Black) 7.0 ipm",
+                    "Print speed black ISO laser comparable: Up to 7.5 ppm. Print speed black draft: Up to 20 ppm. Print",
+                    "Print speed color : Up to 5.5 ppm, Print speed black : Up to 7.5 ppm",
+                    "Print speed color: Up to 5.5 ppm, Print speed black: Up to 7.5 ppm",
+                    "Print Speed Upto 480 CPS (10CPI)",
+                    "Print Speed Up to 20 ppm (Black) Print speed up to 20 ppm (color)",
+                    "RM-515",
+                    "Satellite: 2.5\\ full range driverSubwoofer: 4\\\" bass driver\"",
+                    "Speed PPM black: 7 ipm, Speed PPM color: 4.8 ipm",
+                    "Speed PPM black: 8 ipm, Speed PPM color: 4 ipm",
+                    "Up to 18 ppm in A4 (19 ppm in Letter)",
+                    "Up to 19 ppm",
+                    "up to 20 ppm",
+                    "up to 21 ppm",
+                    "up to 22 ppm",
+                    "Up to 24ppm in A4 (25ppm in Letter)",
+                    "up to 25ppm",
+                    "Up to 33ppm (9.2ipm)",
+                    "Up to 33ppm in A4 (35ppm in Letter)",
+                    "Up to 35",
+                    "up to 4.0ipm (colour) / 8.0ipm (monoMaximum",
+                    "Up to 40 ppm in A4 (42 ppm in Letter)",
+                    "Up to 40ppm in A4 (42ppm in Letter)",
+                    "up to 416 characters per second (12 CPI)",
+                    "Up to 5.5 ppm",
+                    "Up to 5.5ppm",
+                    "Up to 50,000 prints per month",
+                    "up to 8.8 ipm (mono)/5.0 ipm (color)",
+                    "Up to35 ppm",
+                    "wirematerial designBouble-side&nbsp"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Model",
+                "type": "list",
+                "value": [
+                    "Yes",
+                    "No",
+                    "Not Specified"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Maximum Print Resolution",
+                "type": "list",
+                "value": []
+            },
+            {
+                "name": "Max Print Resolution Color",
+                "type": "list",
+                "value": [
+                    "600 x 600 DPI",
+                    "1200 x 1200 DPI",
+                    "1200 x 6000 DPI",
+                    "203 x 203 DPI",
+                    "240 x 216 DPI",
+                    "2400 x 600 DPI",
+                    "360 x 360 DPI",
+                    "4800 x 1200 DPI",
+                    "800 x 600 DPI",
+                    "600 x 1200 DPI",
+                    "4800 x 600 DPI",
+                    "4800 x 2400 DPI",
+                    "9600 x 2400 DPI",
+                    "1200 x 2400 dpi"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "MonoColor",
+                "type": "list",
+                "value": [
+                    "2880x720",
+                    "1440x720",
+                    "1200x1200",
+                    "600dpi",
+                    "200dpi",
+                    "5,760 x 1,440 dpi",
+                    "300x300",
+                    "300dpi",
+                    "600x600dpi"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Printer Function Type",
+                "type": "list",
+                "value": [
+                    "Color",
+                    "Mono",
+                    "Mono & Color"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Glove Size",
+                "type": "list",
+                "value": [
+                    "Bar Code Printer",
+                    "Colour Laser printer",
+                    "Mono Laser printer",
+                    "Label printer",
+                    "Large-format printer",
+                    "Office Printer",
+                    "Photo Printer",
+                    "Print only (Monochrome& Color)",
+                    "3D printer",
+                    "Print only (monochrome)",
+                    "3in1 (Print, Copy, Scan)",
+                    "4in1 (print, Copy, Scan, Fax)",
+                    "Printer Consumables",
+                    "Copying",
+                    "Scanning",
+                    "Faxing",
+                    "Photo Printing",
+                    "Multi-function",
+                    "5 in 1 (print, scan, copy, wireless, fax)",
+                    "ID Card Printer"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Wattage",
+                "type": "list",
+                "value": [
+                    "Bar Code Printer",
+                    "Colour Laser printer",
+                    "Mono Laser printer",
+                    "Label printer",
+                    "Large-format printer",
+                    "Office Printer",
+                    "Photo Printer",
+                    "Print only (Monochrome& Color)",
+                    "3D printer",
+                    "Print only (monochrome)",
+                    "3in1 (Print, Copy, Scan)",
+                    "4in1 (print, Copy, Scan, Fax)",
+                    "Printer Consumables",
+                    "Copying",
+                    "Scanning",
+                    "Faxing",
+                    "Photo Printing",
+                    "Multi-function",
+                    "5 in 1 (print, scan, copy, wireless, fax)",
+                    "ID Card Printer"
+                ],
+                "multiselect": false
+            },
+            {
+                "name": "Double Sided Printing",
+                "multiselect": false,
+                "value": [
+                    "Yes",
+                    "No"
+                ],
+                "type": "list"
+            },
+            {
+                "name": "Input Tray Capacity papers",
+                "multiselect": false,
+                "value": [
+                    "151-200 Shet",
+                    "201 Sheet and up",
+                    "1-50 Sheet",
+                    "101-150 Sheet",
+                    "51-100 Sheet"
+                ],
+                "type": "list"
+            },
+            {
+                "name": "USB Support",
+                "multiselect": false,
+                "value": [
+                    "Yes",
+                    "No"
+                ],
+                "type": "list"
+            },
+            {
+                "name": "Output Tray Capacity",
+                "multiselect": false,
+                "value": [
+                    "81-100 sheet",
+                    "60-80 sheet",
+                    "1-20 sheet",
+                    "101 sheet and up",
+                    "21-40 Sheet"
+                ],
+                "type": "list"
+            }
+        ]
+    }
+]

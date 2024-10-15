@@ -1,0 +1,284 @@
+[
+    {
+        "Category": "Computers & Laptops",
+        "dimensions": [
+            {
+                "weight": "2kg",
+                "length": "35cm",
+                "height": "2cm",
+                "width": "24cm"
+            }
+        ],
+        "tags": [
+            "laptops",
+            "gaming",
+            "high-performance",
+            "portable"
+        ],
+        "commision": 18,
+        "subcategories": [
+            {
+                "Category": "Laptops",
+                "dimensions": [
+                    {
+                        "weight": "2kg",
+                        "length": "35cm",
+                        "height": "2cm",
+                        "width": "24cm"
+                    }
+                ],
+                "tags": [
+                    "laptops",
+                    "high-performance",
+                    "portable"
+                ],
+                "commision": 18,
+                "subcategories": [
+                    {
+                        "Category": "Gaming Laptops",
+                        "dimensions": [
+                            {
+                                "weight": "2.5kg",
+                                "length": "36cm",
+                                "height": "2.5cm",
+                                "width": "25cm"
+                            }
+                        ],
+                        "tags": [
+                            "gaming",
+                            "high-performance",
+                            "multimedia"
+                        ],
+                        "commision": 18,
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Computers & Laptops",
+        "dimensions": [
+            {
+                "weight": "500g",
+                "length": "10cm",
+                "height": "5cm",
+                "width": "15cm"
+            }
+        ],
+        "tags": [
+            "accessories",
+            "webcams",
+            "peripherals"
+        ],
+        "commision": 15,
+        "subcategories": [
+            {
+                "Category": "Computer Accessories",
+                "dimensions": [
+                    {
+                        "weight": "500g",
+                        "length": "10cm",
+                        "height": "5cm",
+                        "width": "15cm"
+                    }
+                ],
+                "tags": [
+                    "computer accessories",
+                    "peripherals",
+                    "webcams"
+                ],
+                "commision": 15,
+                "subcategories": [
+                    {
+                        "Category": "Webcams",
+                        "dimensions": [
+                            {
+                                "weight": "200g",
+                                "length": "5cm",
+                                "height": "3cm",
+                                "width": "8cm"
+                            }
+                        ],
+                        "tags": [
+                            "webcams",
+                            "video calling",
+                            "computer peripherals"
+                        ],
+                        "commision": 15,
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "TV, Audio / Video, Gaming & Wearables",
+        "dimensions": [
+            {
+                "weight": "8kg",
+                "length": "120cm",
+                "height": "10cm",
+                "width": "70cm"
+            }
+        ],
+        "tags": [
+            "TV",
+            "entertainment",
+            "large screen"
+        ],
+        "commision": 10,
+        "subcategories": [
+            {
+                "Category": "Televisions",
+                "dimensions": [
+                    {
+                        "weight": "8kg",
+                        "length": "120cm",
+                        "height": "10cm",
+                        "width": "70cm"
+                    }
+                ],
+                "tags": [
+                    "television",
+                    "home entertainment",
+                    "LED"
+                ],
+                "commision": 10,
+                "subcategories": [
+                    {
+                        "Category": "4K Televisions",
+                        "dimensions": [
+                            {
+                                "weight": "9kg",
+                                "length": "130cm",
+                                "height": "12cm",
+                                "width": "75cm"
+                            }
+                        ],
+                        "tags": [
+                            "4K",
+                            "ultra HD",
+                            "smart TV"
+                        ],
+                        "commision": 10,
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Cameras",
+        "dimensions": [
+            {
+                "weight": "1kg",
+                "length": "15cm",
+                "height": "8cm",
+                "width": "12cm"
+            }
+        ],
+        "tags": [
+            "cameras",
+            "video recording",
+            "photography"
+        ],
+        "commision": 18,
+        "subcategories": [
+            {
+                "Category": "Video & Action Camcorder",
+                "dimensions": [
+                    {
+                        "weight": "1.2kg",
+                        "length": "16cm",
+                        "height": "9cm",
+                        "width": "13cm"
+                    }
+                ],
+                "tags": [
+                    "camcorder",
+                    "video camera",
+                    "action recording"
+                ],
+                "commision": 18,
+                "subcategories": [
+                    {
+                        "Category": "Professional Video Camera",
+                        "dimensions": [
+                            {
+                                "weight": "1.5kg",
+                                "length": "18cm",
+                                "height": "10cm",
+                                "width": "14cm"
+                            }
+                        ],
+                        "tags": [
+                            "professional camera",
+                            "high quality video",
+                            "media production"
+                        ],
+                        "commision": 18,
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Media, Music & Books",
+        "dimensions": [
+            {
+                "weight": "300g",
+                "length": "20cm",
+                "height": "2cm",
+                "width": "14cm"
+            }
+        ],
+        "tags": [
+            "eBooks",
+            "digital reading",
+            "media"
+        ],
+        "commision": 15,
+        "subcategories": [
+            {
+                "Category": "eBooks",
+                "dimensions": [
+                    {
+                        "weight": "300g",
+                        "length": "20cm",
+                        "height": "2cm",
+                        "width": "14cm"
+                    }
+                ],
+                "tags": [
+                    "digital books",
+                    "online reading",
+                    "eBooks"
+                ],
+                "commision": 15,
+                "subcategories": [
+                    {
+                        "Category": "Chinese eBooks",
+                        "dimensions": [
+                            {
+                                "weight": "350g",
+                                "length": "22cm",
+                                "height": "2.5cm",
+                                "width": "15cm"
+                            }
+                        ],
+                        "tags": [
+                            "Chinese books",
+                            "Chinese literature",
+                            "eBooks"
+                        ],
+                        "commision": 15,
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    }
+]
+

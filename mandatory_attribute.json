@@ -1,0 +1,1088 @@
+[
+    {
+        "name": "Mobiles & Tablets > Mobiles",
+        "mandatory_attribute": [
+            "Brand",
+            "Screen Size (inches)",
+            "Network Connections",
+            "Rear Camera",
+            "Camera Front (Megapixels)",
+            "SIM Slots",
+            "Battery Capacity",
+            "Display Protection",
+            "Build Type",
+            "Model Year",
+            "Number of Cameras",
+            "Fast Charging",
+            "Wireless Charging"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Tablets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Landline Phones",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Tablet Accessories > Stylus Pens",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Tablet Accessories > Cases & Covers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Tablet Accessories > Keyboards",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Wall Chargers",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Wireless Chargers",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Selfie Sticks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Phone Camera Flash Lights",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Docks & Stands",
+        "mandatory_attribute": [
+            "Brand",
+            "Charging Interface"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Car Chargers",
+        "mandatory_attribute": [
+            "Brand",
+            "Charging Interface",
+            "Ports",
+            "Power Output (W)"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Fashion Mobile Accessories",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Cables & Converters",
+        "mandatory_attribute": [
+            "Brand",
+            "Connection",
+            "Cable Length",
+            "Cable Type"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Car Mounts",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Phone Cases",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Screen Protectors",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Parts & Tools > Replacement Parts",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Parts & Tools > SIM Tools",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Prepaid Cards",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Phone Batteries",
+        "mandatory_attribute": [
+            "Brand",
+            "Battery Capacity"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Mobile Accessories > Power Banks",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Feature Phones",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets > Like New Phones",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Laptops > Traditional Laptops",
+        "mandatory_attribute": [
+            "\n",
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Laptops > Gaming Laptops",
+        "mandatory_attribute": [
+            "\n",
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Laptops > Chromebooks",
+        "mandatory_attribute": [
+            "\n",
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Laptops > Macbooks",
+        "mandatory_attribute": [
+            "Brand",
+            "Display Size",
+            "Operating System",
+            "RAM Memory",
+            "Storage Capacity",
+            "Generation",
+            "Processor"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Desktops Computers > All-In-One",
+        "mandatory_attribute": [
+            "Brand",
+            "Processor"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Desktops Computers > Gaming",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Desktops Computers > DIY",
+        "mandatory_attribute": [
+            "Brand",
+            "Processor"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Gadgets",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Power Cord & Adaptors",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Laptop Batteries",
+        "mandatory_attribute": [
+            "Brand",
+            "Rotatable"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Blank Media",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Cooling Pads/Cooling Stands",
+        "mandatory_attribute": [
+            "Brand",
+            "Number of USB ports",
+            "Adjustable Fan Speed",
+            "Lighting Type"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > External DVD Writers",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Keyboards > Basic",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Keyboards > Gaming",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Keyboards > Mice & Keyboard Combos",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Keyboards > Keyboard Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Laptop stands",
+        "mandatory_attribute": [
+            "Brand",
+            "Display Size",
+            "Operating System",
+            "RAM Memory",
+            "Storage Capacity",
+            "Processor",
+            "Generation"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Mice > Basic",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Mice > Gaming",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > TV Tuners",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Webcams",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Surge Protector",
+        "mandatory_attribute": [
+            "Brand",
+            "Number Of Sockets"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Mousepads > Basic",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Mousepads > Gaming",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > UPS",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > USB Fans",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > PC Audio > Gaming Headsets",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > PC Audio > PC Soundbars",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > PC Audio > PC Soundbars",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > PC Audio > PC Speaker Systems",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Monitor Stands",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Monitor Screen Filters",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > USB Hubs",
+        "mandatory_attribute": [
+            "Brand",
+            "Number of USB ports",
+            "Plug And Play"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Fingerprint Reader",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Bluetooth Adapters",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Card Reader",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > USB Lighting",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Mac Accessories > Hard Covers",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Mac Accessories > Skin & Decal Stickers",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Mac Accessories > Power Adapters",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Mac Accessories > Screen Filters",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Drawing Tools > Drawing Display",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Drawing Tools > Drawing Pad",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Drawing Tools > Drawing Stylus",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Drawing Tools > Display Screen Protectors",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > USB-Ethernet Adapters",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > USB-Video Adapters",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Mini Display-Ethernet Adapters",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Mini Display-Video Adapters",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Type C-Ethernet Adapters",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Type C-Video Adapters",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Ethernet Cables",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Firewire Cables",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > ThunderBolt Cables",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > VGA Cables",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > DVI Cables",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > PS/2 Cables",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Mini-SAS Cables",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > SCSI Cables",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Parallel Cables",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Serial Cables",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > SATA Cables",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > SATA Cables",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > eSATA Cables",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > IDE Ribbon Cables",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > Desktop Casings",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > Fans & Heatsinks > Cooling Fans",
+        "mandatory_attribute": [
+            "Brand",
+            "Fan Type"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > Fans & Heatsinks > Heatsinks",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > Graphic Cards",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > Front Bay Devices",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > Motherboards",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > Power Supply Units",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > Processors",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > RAM",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > Sound cards",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > Water Cooling System",
+        "mandatory_attribute": [
+            "Brand",
+            "Fan Type",
+            "Lighting Type"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Computer Components > Single Board Computer",
+        "mandatory_attribute": [
+            "Brand",
+            "Display Size",
+            "Operating System",
+            "RAM Memory",
+            "Storage Capacity",
+            "Processor",
+            "Generation"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Access Points",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Network Interface Cards",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Routers",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Switches",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Wireless USB Adapters",
+        "mandatory_attribute": [
+            "Brand",
+            "Network Connectivity",
+            "Antenna Type"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Mobile Broadband > Mobile Wi-Fi Hotspots",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Mobile Broadband > USB Modems",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Modems",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Range extender",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Network adaptors > Laptop Network adapters",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Network adaptors > USB network adapters",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Network adaptors > Bluetooth network adapters",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Network adaptors > Powerline network adapter",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Network Components > Airport Routers",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Printers > Laser Jet",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Printers > Ink Jet",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Printers > Photo",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Printers > Business",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Printers > Dot matrix Printer",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Printers > Label Printer",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Printer stands",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Fax machines",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Ink > Inkjets Inks",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Ink > Laser Toners",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > 3D Printing > 3D Printers",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > 3D Printing > 3D Printer Parts",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > 3D Printing > 3D Printing Materials",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Printer cutter",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Printers & Accessories > Printer memory modules",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Scanners",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Storage > External Hard Drives",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Storage > Internal Hard Drives",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Storage > NAS",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Storage > External Solid State Drives",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Storage > OTG Drives",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Storage > Flash Drives",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Storage > Storage for Mac",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > PC Gaming > PC Games",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "Computers & Laptops > Monitors",
+        "mandatory_attribute": []
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > In-Ear Headphones",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > Over-the-Ear Headphones",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > On-Ear Headphones",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > Mono Headsets",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > Wireless Earbuds",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > Headphones & Headsets Accessories",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Portable Players > MP3/MP4",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Portable Players > Radio & CD players",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Portable Players > Voice Recorders",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Portable Players > Portable Audio Accessories",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Microphones",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Mixers & Audio Interfaces",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Desktop DAC Headphone Amplifier",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Portable DAC Headphone Amplifier",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Microphone Accessories",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > PA Systems",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Live, Sound & Stage Accessories",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Portable Speakers",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Smart Speakers",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Soundbars",
+        "mandatory_attribute": [
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Hi-Fi Systems",
+        "mandatory_attribute": [
+            "\n",
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Home Theater Systems",
+        "mandatory_attribute": [
+            "\n",
+            "\n",
+            "\n"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Karaoke Systems",
+        "mandatory_attribute": [
+            "\n"
+        ]
+    }
+]
