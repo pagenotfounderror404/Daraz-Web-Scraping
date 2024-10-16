@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Brand",
+        "type": "list",
+        "multiselect": false,
+        "value": []
+    },
+    {
+        "name": "Preparation Type",
+        "type": "list",
+        "multiselect": false,
+        "value": [
+            "Not Specified",
+            "Grilling",
+            "N/A",
+            "Kneading",
+            "Cutting",
+            "Baking",
+            "Broiling",
+            "Frying",
+            "Microwaving",
+            "Roasting",
+            "Hot Smoking",
+            "Chemical techniques",
+            "Mechanical techniques",
+            "Steaming",
+            "Boiling",
+            "Blanching",
+            "Braising",
+            "Pressure Cooking",
+            "Coddling",
+            "Infusion",
+            "Simmering",
+            "Stewing",
+            "Seering",
+            "Barbecuing",
+            "Marinating",
+            "Pickling",
+            "Salting",
+            "Seasoning",
+            "Sugaring",
+            "Basting",
+            "Milling",
+            "Mixing"
+        ]
+    }
+]
