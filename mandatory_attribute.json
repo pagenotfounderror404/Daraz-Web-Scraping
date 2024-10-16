@@ -44,31 +44,42 @@
     {
         "name": "Mobiles & Tablets > Tablet Accessories > Keyboards",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Mobiles & Tablets > Mobile Accessories > Wall Chargers",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Ports",
+            "Power Output (W)"
         ]
     },
     {
         "name": "Mobiles & Tablets > Mobile Accessories > Wireless Chargers",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Wattage",
+            "Connectivity"
         ]
     },
     {
         "name": "Mobiles & Tablets > Mobile Accessories > Selfie Sticks",
         "mandatory_attribute": [
-            "Brand"
+            "Brand",
+            "Wireless Connectivity",
+            "Load Capacity (kilograms)",
+            "Remote Included",
+            "Extended Length"
         ]
     },
     {
         "name": "Mobiles & Tablets > Mobile Accessories > Phone Camera Flash Lights",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Battery Included",
+            "Battery Required",
+            "Number Of Flashes"
         ]
     },
     {
@@ -90,7 +101,7 @@
     {
         "name": "Mobiles & Tablets > Mobile Accessories > Fashion Mobile Accessories",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
@@ -105,26 +116,29 @@
     {
         "name": "Mobiles & Tablets > Mobile Accessories > Car Mounts",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Indicator Light(s)",
+            "Maximum Adjustment",
+            "Connector Type"
         ]
     },
     {
         "name": "Mobiles & Tablets > Mobile Accessories > Phone Cases",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Mobiles & Tablets > Mobile Accessories > Screen Protectors",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Number Of Layers"
         ]
     },
     {
         "name": "Mobiles & Tablets > Mobile Accessories > Parts & Tools > Replacement Parts",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
@@ -136,7 +150,7 @@
     {
         "name": "Mobiles & Tablets > Mobile Accessories > Prepaid Cards",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
@@ -149,44 +163,60 @@
     {
         "name": "Mobiles & Tablets > Mobile Accessories > Power Banks",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Input Type",
+            "Ports",
+            "Power Output (W)",
+            "Charging Cable Included"
         ]
     },
     {
         "name": "Mobiles & Tablets > Feature Phones",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Mobiles & Tablets > Like New Phones",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Laptops > Traditional Laptops",
         "mandatory_attribute": [
-            "\n",
-            "\n",
-            "\n"
+            "Brand",
+            "Display Size",
+            "Operating System",
+            "CPU Cores",
+            "RAM Memory",
+            "Storage Capacity",
+            "Processor",
+            "Generation"
         ]
     },
     {
         "name": "Computers & Laptops > Laptops > Gaming Laptops",
         "mandatory_attribute": [
-            "\n",
-            "\n",
-            "\n"
+            "Brand",
+            "Display Size",
+            "Operating System",
+            "RAM Memory",
+            "Storage Capacity",
+            "Processor",
+            "Generation"
         ]
     },
     {
         "name": "Computers & Laptops > Laptops > Chromebooks",
         "mandatory_attribute": [
-            "\n",
-            "\n",
-            "\n"
+            "Brand",
+            "Display Size",
+            "Operating System",
+            "RAM Memory",
+            "Storage Capacity",
+            "Processor",
+            "Generation"
         ]
     },
     {
@@ -211,8 +241,8 @@
     {
         "name": "Computers & Laptops > Desktops Computers > Gaming",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Processor"
         ]
     },
     {
@@ -225,27 +255,28 @@
     {
         "name": "Computers & Laptops > Computer Accessories > Gadgets",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Power Cord & Adaptors",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Output Voltage",
+            "Auto Shut Off",
+            "Cable Type"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Laptop Batteries",
         "mandatory_attribute": [
-            "Brand",
-            "Rotatable"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Blank Media",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
@@ -260,13 +291,15 @@
     {
         "name": "Computers & Laptops > Computer Accessories > External DVD Writers",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Dvd Read Speed",
+            "Writing Speed (MB)"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Keyboards > Basic",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
@@ -291,24 +324,23 @@
         "name": "Computers & Laptops > Computer Accessories > Laptop stands",
         "mandatory_attribute": [
             "Brand",
-            "Display Size",
-            "Operating System",
-            "RAM Memory",
-            "Storage Capacity",
-            "Processor",
-            "Generation"
+            "Rotatable"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Mice > Basic",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Connectivity",
+            "Mouse Type"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Mice > Gaming",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Mouse Type",
+            "Connectivity"
         ]
     },
     {
@@ -320,7 +352,7 @@
     {
         "name": "Computers & Laptops > Computer Accessories > Webcams",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
@@ -333,19 +365,20 @@
     {
         "name": "Computers & Laptops > Computer Accessories > Mousepads > Basic",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Mousepads > Gaming",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > UPS",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Power Output (W)"
         ]
     },
     {
@@ -357,19 +390,13 @@
     {
         "name": "Computers & Laptops > Computer Accessories > PC Audio > Gaming Headsets",
         "mandatory_attribute": [
-            "\n"
-        ]
-    },
-    {
-        "name": "Computers & Laptops > Computer Accessories > PC Audio > PC Soundbars",
-        "mandatory_attribute": [
             "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > PC Audio > PC Soundbars",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
@@ -381,7 +408,8 @@
     {
         "name": "Computers & Laptops > Computer Accessories > Monitor Stands",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Rotatable"
         ]
     },
     {
@@ -407,7 +435,9 @@
     {
         "name": "Computers & Laptops > Computer Accessories > Bluetooth Adapters",
         "mandatory_attribute": [
-            "Brand"
+            "Brand",
+            "Number Of Connectable Devices",
+            "Bluetooth Version"
         ]
     },
     {
@@ -419,49 +449,49 @@
     {
         "name": "Computers & Laptops > Computer Accessories > USB Lighting",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Mac Accessories > Hard Covers",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Mac Accessories > Skin & Decal Stickers",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Mac Accessories > Power Adapters",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Mac Accessories > Screen Filters",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Drawing Tools > Drawing Display",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Drawing Tools > Drawing Pad",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Drawing Tools > Drawing Stylus",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
@@ -473,25 +503,29 @@
     {
         "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > USB-Ethernet Adapters",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Connectivity"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > USB-Video Adapters",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Connectivity"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Mini Display-Ethernet Adapters",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Connectivity"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Mini Display-Video Adapters",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Connectivity"
         ]
     },
     {
@@ -504,7 +538,8 @@
     {
         "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Type C-Video Adapters",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Connectivity"
         ]
     },
     {
@@ -517,19 +552,22 @@
     {
         "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Firewire Cables",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Connectivity"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > ThunderBolt Cables",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Connectivity"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > VGA Cables",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Connectivity"
         ]
     },
     {
@@ -549,7 +587,8 @@
     {
         "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > Mini-SAS Cables",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Connectivity"
         ]
     },
     {
@@ -578,12 +617,6 @@
         "mandatory_attribute": [
             "Brand",
             "Connectivity"
-        ]
-    },
-    {
-        "name": "Computers & Laptops > Computer Accessories > Adapters & Cables > SATA Cables",
-        "mandatory_attribute": [
-            "\n"
         ]
     },
     {
@@ -616,34 +649,36 @@
     {
         "name": "Computers & Laptops > Computer Components > Fans & Heatsinks > Heatsinks",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Fan Type"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Components > Graphic Cards",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Output Interface",
+            "Gpu"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Components > Front Bay Devices",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Components > Motherboards",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Number Of Pcie Slots"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Components > Power Supply Units",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Cord Length"
         ]
     },
     {
@@ -655,14 +690,14 @@
     {
         "name": "Computers & Laptops > Computer Components > RAM",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Number Of Modules"
         ]
     },
     {
         "name": "Computers & Laptops > Computer Components > Sound cards",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
@@ -677,18 +712,15 @@
         "name": "Computers & Laptops > Computer Components > Single Board Computer",
         "mandatory_attribute": [
             "Brand",
-            "Display Size",
-            "Operating System",
-            "RAM Memory",
-            "Storage Capacity",
-            "Processor",
-            "Generation"
+            "Expansion Slots"
         ]
     },
     {
         "name": "Computers & Laptops > Network Components > Access Points",
         "mandatory_attribute": [
-            "Brand"
+            "Brand",
+            "Network Connectivity",
+            "Antenna Type"
         ]
     },
     {
@@ -700,22 +732,22 @@
     {
         "name": "Computers & Laptops > Network Components > Routers",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Frequency"
         ]
     },
     {
         "name": "Computers & Laptops > Network Components > Switches",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Number Of Lan Ports"
         ]
     },
     {
         "name": "Computers & Laptops > Network Components > Wireless USB Adapters",
         "mandatory_attribute": [
             "Brand",
-            "Network Connectivity",
-            "Antenna Type"
+            "Usb Generation"
         ]
     },
     {
@@ -727,362 +759,5978 @@
     {
         "name": "Computers & Laptops > Network Components > Mobile Broadband > USB Modems",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Network Components > Modems",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Number Of Lan Ports"
         ]
     },
     {
         "name": "Computers & Laptops > Network Components > Range extender",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Frequency"
         ]
     },
     {
         "name": "Computers & Laptops > Network Components > Network adaptors > Laptop Network adapters",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Network Components > Network adaptors > USB network adapters",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Network Components > Network adaptors > Bluetooth network adapters",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Network Components > Network adaptors > Powerline network adapter",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Network Components > Airport Routers",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Network Connectivity",
+            "Number Of Lan Ports",
+            "Wireless Speed"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Printers > Laser Jet",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Printer Connectivity Type",
+            "Paper Handling",
+            "Print Speed (CPM)",
+            "Portable"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Printers > Ink Jet",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Printer Connectivity Type",
+            "Paper Handling",
+            "Print Speed (CPM)",
+            "Portable"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Printers > Photo",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Printer Connectivity Type",
+            "Paper Handling",
+            "Print Speed (CPM)",
+            "Portable"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Printers > Business",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Printer Connectivity Type",
+            "Paper Handling",
+            "Print Speed (CPM)",
+            "Portable"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Printers > Dot matrix Printer",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Printer Connectivity Type",
+            "Paper Handling",
+            "Print Speed (CPM)",
+            "Portable"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Printers > Label Printer",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Printer Connectivity Type",
+            "Paper Handling",
+            "Print Speed (CPM)",
+            "Portable"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Printer stands",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Fax machines",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Printer Connectivity Type",
+            "Paper Handling",
+            "Print Speed (CPM)",
+            "Portable"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Ink > Inkjets Inks",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Watch's water resistance",
+            "Ink Package Type"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Ink > Laser Toners",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Watch's water resistance",
+            "Ink Package Type"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > 3D Printing > 3D Printers",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > 3D Printing > 3D Printer Parts",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > 3D Printing > 3D Printing Materials",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Printer cutter",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Printers & Accessories > Printer memory modules",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Number Of Pins"
         ]
     },
     {
         "name": "Computers & Laptops > Scanners",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Storage > External Hard Drives",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Drive Type"
         ]
     },
     {
         "name": "Computers & Laptops > Storage > Internal Hard Drives",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Drive Type"
         ]
     },
     {
         "name": "Computers & Laptops > Storage > NAS",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Storage > External Solid State Drives",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Storage Drive Type"
         ]
     },
     {
         "name": "Computers & Laptops > Storage > OTG Drives",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > Storage > Flash Drives",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Usb Generation",
+            "Writing Speed"
         ]
     },
     {
         "name": "Computers & Laptops > Storage > Storage for Mac",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "Computers & Laptops > PC Gaming > PC Games",
         "mandatory_attribute": [
-            "\n"
+            "Brand",
+            "Format",
+            "Genre",
+            "Platform Type"
         ]
     },
     {
         "name": "Computers & Laptops > Monitors",
-        "mandatory_attribute": []
+        "mandatory_attribute": [
+            "Brand",
+            "Display Size"
+        ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > In-Ear Headphones",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Cable Length"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > Over-the-Ear Headphones",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Bluetooth",
+            "Wireless Connectivity",
+            "Connector Type",
+            "Cable Length"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > On-Ear Headphones",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Bluetooth",
+            "Wireless Connectivity",
+            "Connector Type"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > Mono Headsets",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Bluetooth",
+            "Wireless Connectivity"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > Wireless Earbuds",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Bluetooth",
+            "Wireless Connectivity",
+            "Compatible Devices"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Headphones & Headsets > Headphones & Headsets Accessories",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Connector Type"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Portable Players > MP3/MP4",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Portable Players > Radio & CD players",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Built-in Battery"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Portable Players > Voice Recorders",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Capacity (Litres)",
+            "Model"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Portable Players > Portable Audio Accessories",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Model"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Microphones",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Model",
+            "Mic Connectivity"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Mixers & Audio Interfaces",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Desktop DAC Headphone Amplifier",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Portable DAC Headphone Amplifier",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Microphone Accessories",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > PA Systems",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Model",
+            "Power Source Type"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Live Sound & Stage Equipment > Live, Sound & Stage Accessories",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Portable Speakers",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Model",
+            "Bluetooth"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Smart Speakers",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Soundbars",
         "mandatory_attribute": [
-            "\n",
-            "\n"
+            "Brand",
+            "Model"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Hi-Fi Systems",
         "mandatory_attribute": [
-            "\n",
-            "\n",
-            "\n"
+            "Brand",
+            "Model",
+            "Connector Type",
+            "Designed For",
+            "Power source"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Home Theater Systems",
         "mandatory_attribute": [
-            "\n",
-            "\n",
-            "\n"
+            "Brand",
+            "Model",
+            "Connector Type",
+            "Designed For",
+            "Power source"
         ]
     },
     {
         "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Karaoke Systems",
         "mandatory_attribute": [
-            "\n"
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Home Entertainment Receivers & Amplifiers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Turntables",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Component Speakers > Bookshelf",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Component Speakers > Center",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Component Speakers > Floor",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Component Speakers > Subwoofer",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Home Audio Accessories > BT Transmitters & Receivers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Home Audio Accessories > Cables",
+        "mandatory_attribute": [
+            "Brand",
+            "Cable Length"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Home Audio Accessories > Speaker Stands",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Audio > Home Entertainment > Home Audio Accessories > Others",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Video > Blu-Ray/DVD Players",
+        "mandatory_attribute": [
+            "Brand",
+            "Battery Required",
+            "Display",
+            "File Formats",
+            "Media Streaming",
+            "Video Player Type"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Video > Projectors",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Video > Media Players > Streaming Media Players",
+        "mandatory_attribute": [
+            "Brand",
+            "Battery Required",
+            "Display",
+            "Media Streaming",
+            "File Formats",
+            "Video Player Type"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Video > Media Players > Hard Drive Media Players",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Video > Projector Accessories > Projector Screens",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Video > Projector Accessories > Projector Cases & Bags",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Video > Projector Accessories > Projector Mounts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Video > Projector Accessories > Other Projector Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > 3D Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "Display Size (Inches)",
+            "Smart TV",
+            "TvResolution",
+            "Smart TV OS"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > CRT Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "Display Size (Inches)",
+            "Smart TV",
+            "TvResolution",
+            "Smart TV OS"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > LCD Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "TvResolution",
+            "Model",
+            "Display Size (Inches)",
+            "Smart TV",
+            "Smart TV OS"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > LED Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "TvResolution",
+            "Model",
+            "Display Size (Inches)",
+            "Smart TV",
+            "Smart TV OS"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > Plasma Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "TvResolution",
+            "Model",
+            "Display Size (Inches)",
+            "Smart TV",
+            "Smart TV OS"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > Smart Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "TvResolution",
+            "Display Size (Inches)",
+            "Smart TV",
+            "Smart TV OS"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > QLED Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "Number of HDMI Ports",
+            "USB Ports",
+            "Resolution",
+            "Smart TV OS",
+            "Smart TV",
+            "TvResolution",
+            "Display Size (Inches)"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > 3D Smart Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "TvResolution",
+            "Display Size (Inches)",
+            "Smart TV",
+            "Smart TV OS"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > 4K Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "Display Size (Inches)",
+            "Smart TV",
+            "TvResolution",
+            "Smart TV OS"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > OLED Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "TvResolution",
+            "Model",
+            "Display Size (Inches)",
+            "Smart TV",
+            "Smart TV OS"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > ULED Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "Display Size (Inches)",
+            "Smart TV",
+            "TvResolution",
+            "Smart TV OS"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > Laser Televisions",
+        "mandatory_attribute": [
+            "Brand",
+            "TvResolution",
+            "Model",
+            "Display Size (Inches)",
+            "Smart TV",
+            "Smart TV OS"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Televisions > TV Bundles",
+        "mandatory_attribute": [
+            "Brand",
+            "Battery Required",
+            "Display",
+            "Media Streaming",
+            "File Formats",
+            "Video Player Type"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Gadgets > Laser Pointers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Gadgets > Metal Detectors",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Gadgets > Dictionaries & Translators",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Gadgets > Universal Chargers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Smartwatches",
+        "mandatory_attribute": [
+            "Brand",
+            "Material Type",
+            "Compatible Operating System",
+            "Bluetooth Version",
+            "Generation",
+            "Display Type",
+            "Movement"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Fitness & Activity Trackers",
+        "mandatory_attribute": [
+            "Brand",
+            "Compatible Operating System",
+            "Bluetooth Version",
+            "Bluetooth"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Smart Glasses",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Smart Trackers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Smartwatches Accessories > Docks & Chargers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Smartwatches Accessories > Screen Protectors",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Smartwatches Accessories > Straps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Smartwatches Accessories > Cases",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Virtual Reality > Mobile VR",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Virtual Reality > PC VR Accessories > Motion Controllers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Virtual Reality > PC VR Accessories > VR Remotes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Virtual Reality > PC VR Accessories > VR Sensors",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Virtual Reality > PC VR Accessories > VR Cases & Covers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Virtual Reality > PC VR Accessories > VR Straps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Virtual Reality > PC VR Accessories > VR Skins",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Virtual Reality > PC VR Accessories > VR Wires",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Virtual Reality > PC VR",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Fitness & Activity Tracker Accessories > Straps",
+        "mandatory_attribute": [
+            "Brand",
+            "Strap Material"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Fitness & Activity Tracker Accessories > Cables & Chargers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Wearable Technology > Gesture Control",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Nintendo > Docks & Stands",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Nintendo > Screen Protectors",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Nintendo > Joy-Con & Controllers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Nintendo > Cables & Chargers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Nintendo > Interactive Figurines",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Nintendo > Other Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Nintendo > Consoles",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Nintendo > Games",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Nintendo > Digital Downloads",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Nintendo > Cases & Covers",
+        "mandatory_attribute": [
+            "Brand",
+            "Case Type"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Xbox > Digital Downloads",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Xbox > Controllers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Xbox > Cases & Covers",
+        "mandatory_attribute": [
+            "Brand",
+            "Case Type"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Xbox > Mounts & Brackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Xbox > Cables & Chargers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Xbox > Other Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Xbox > Consoles",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Xbox > Games",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Other Gaming > Consoles",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Other Gaming > Console Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > Other Gaming > Games",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > PlayStation > Mounts & Brackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > PlayStation > Cables & Chargers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > PlayStation > Interactive Figurines",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > PlayStation > Other Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > PlayStation > Consoles",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > PlayStation > Games",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > PlayStation > Digital Downloads",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > PlayStation > PlayStation VR Headsets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > PlayStation > Controllers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > Console Gaming > PlayStation > Cases & Covers",
+        "mandatory_attribute": [
+            "Brand",
+            "Case Type"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > TV Accessories > TV Receivers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > TV Accessories > Antennas",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > TV Accessories > Wall Mounts & Protectors",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > TV Accessories > TV Remote Controllers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > TV Accessories > 3D Glasses",
+        "mandatory_attribute": [
+            "Brand",
+            "Remote Included",
+            "Suitable For Devices",
+            "Wired"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > TV Accessories > Cables",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > TV Accessories > TV Adapters",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "TV, Audio / Video, Gaming & Wearables > App-enabled Accessories",
+        "mandatory_attribute": [
+            "Brand",
+            "Battery Included",
+            "Rechargeable"
+        ]
+    },
+    {
+        "name": "Cameras > Point & Shoot > Point & Shoot",
+        "mandatory_attribute": [
+            "Brand",
+            "Flash Modes",
+            "Maximum Aperture"
+        ]
+    },
+    {
+        "name": "Cameras > Point & Shoot > Underwater Digital Cameras",
+        "mandatory_attribute": [
+            "Brand",
+            "Flash Modes",
+            "Maximum Aperture"
+        ]
+    },
+    {
+        "name": "Cameras > Bridge",
+        "mandatory_attribute": [
+            "Brand",
+            "Wi-Fi Enabled"
+        ]
+    },
+    {
+        "name": "Cameras > DSLR > Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "Auto Focus Points",
+            "Sensor type",
+            "Megapixels",
+            "Wi-Fi Enabled",
+            "ISO Range"
+        ]
+    },
+    {
+        "name": "Cameras > DSLR > Body Only",
+        "mandatory_attribute": [
+            "Brand",
+            "Auto Focus Points",
+            "Sensor type",
+            "Megapixels",
+            "Wi-Fi Enabled",
+            "ISO Range"
+        ]
+    },
+    {
+        "name": "Cameras > Instant Camera > Instant Cameras",
+        "mandatory_attribute": [
+            "Brand",
+            "Autofocus",
+            "Self Timer",
+            "Watch's water resistance"
+        ]
+    },
+    {
+        "name": "Cameras > Instant Camera > Instant Camera Films",
+        "mandatory_attribute": [
+            "Brand",
+            "Film Type"
+        ]
+    },
+    {
+        "name": "Cameras > Instant Camera > Instant Camera Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Mirrorless",
+        "mandatory_attribute": [
+            "Brand",
+            "Model",
+            "Video Capture Resolution",
+            "Waterproof",
+            "Sensor type",
+            "Display Size",
+            "Optical Zoom"
+        ]
+    },
+    {
+        "name": "Cameras > Gadgets & Other Cameras > Toy Cameras",
+        "mandatory_attribute": [
+            "Brand",
+            "Minimum Age"
+        ]
+    },
+    {
+        "name": "Cameras > Gadgets & Other Cameras > Mini Cameras",
+        "mandatory_attribute": [
+            "Brand",
+            "Effective Pixels",
+            "Number of Cameras"
+        ]
+    },
+    {
+        "name": "Cameras > Gadgets & Other Cameras > Lomography",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Gadgets & Other Cameras > Spy Cameras",
+        "mandatory_attribute": [
+            "Brand",
+            "Effective Pixels",
+            "Number of Cameras"
+        ]
+    },
+    {
+        "name": "Cameras > Video & Action Camcorder > Sports & Action Camera",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Cameras > Video & Action Camcorder > Video Camera",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Cameras > Video & Action Camcorder > Professional Video Camera",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity"
+        ]
+    },
+    {
+        "name": "Cameras > Video & Action Camcorder > 360 Cameras",
+        "mandatory_attribute": [
+            "Brand",
+            "Number of Cameras",
+            "Number of channels"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Camera Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Watch's water resistance",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Batteries",
+        "mandatory_attribute": [
+            "Brand",
+            "Battery Charge Time",
+            "Rechargeable"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Battery Chargers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Camera Cases, Covers and Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Watch's water resistance",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Camera Remote Controls",
+        "mandatory_attribute": [
+            "Brand",
+            "Wireless",
+            "Remote Type"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Dry Box",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Flashes",
+        "mandatory_attribute": [
+            "Brand",
+            "External Mount",
+            "Flash Modes"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Lighting & Studio Equipment > Light Meters & Color Calibrators",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Lighting & Studio Equipment > Studio Equipment",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Lighting & Studio Equipment > Photography & Studio Lighting",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Memory Cards > SD & SDHC Cards",
+        "mandatory_attribute": [
+            "Brand",
+            "Writing Speed"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Memory Cards > Compact Flash Cards",
+        "mandatory_attribute": [
+            "Brand",
+            "Writing Speed"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Memory Cards > Micro SD Cards",
+        "mandatory_attribute": [
+            "Brand",
+            "Writing Speed"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Memory Cards > Wifi SD Cards",
+        "mandatory_attribute": [
+            "Brand",
+            "Writing Speed"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Memory Cards > Card Readers",
+        "mandatory_attribute": [
+            "Brand",
+            "Writing Speed"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Straps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Tripods & Monopods > Monopods",
+        "mandatory_attribute": [
+            "Brand",
+            "Leg Lock Type"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Tripods & Monopods > Tripods",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Sports & Action Camera Accessories > Accessory Kits",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Sports & Action Camera Accessories > Mounts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Sports & Action Camera Accessories > Protective Lens",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Sports & Action Camera Accessories > Action Camera Bags & Cases",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Sports & Action Camera Accessories > Straps & Harnesses",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Sports & Action Camera Accessories > Waterproof Cases & Housing",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Sports & Action Camera Accessories > Other Action Camera Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Camera Screen Protector",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Viewfinders",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Gimbals & Stabilizers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Camera Accessories > Gimbals & Stabilizers Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Optics > Monoculars",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Optics > Telescopes",
+        "mandatory_attribute": [
+            "Brand",
+            "Focal Length",
+            "Maximum Aperture"
+        ]
+    },
+    {
+        "name": "Cameras > Optics > Binoculars",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Optics > Optics Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > DSLRs Lenses",
+        "mandatory_attribute": [
+            "Brand",
+            "Maximum Aperture"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Mirrorless Lenses",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Lens Accessories > Lens Hoods",
+        "mandatory_attribute": [
+            "Brand",
+            "Hood Shape"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Lens Accessories > Lens Cleaners",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Lens Accessories > Lens Caps",
+        "mandatory_attribute": [
+            "Brand",
+            "Watch's water resistance"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Lens Accessories > Filters",
+        "mandatory_attribute": [
+            "Brand",
+            "Model",
+            "Filter Diameter",
+            "Watch's water resistance",
+            "Filter Attachment Type"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Lens Accessories > Lens Cases",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Lens Accessories > Lens Adapters & Converters",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Lens Accessories > Follow - Focus Levers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Lens Accessories > Matte Boxes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Lens Accessories > Extension Tubes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Lens Accessories > Other Lens Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Other Lenses",
+        "mandatory_attribute": [
+            "Brand",
+            "Compatible With",
+            "Focal Length"
+        ]
+    },
+    {
+        "name": "Cameras > Lenses > Smartphone Lenses",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Car Cameras",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Security Cameras & Systems > CCTV Security Cameras",
+        "mandatory_attribute": [
+            "Brand",
+            "Storage Capacity",
+            "Number of channels"
+        ]
+    },
+    {
+        "name": "Cameras > Security Cameras & Systems > IP Security Systems",
+        "mandatory_attribute": [
+            "Brand",
+            "Storage Capacity",
+            "Number of channels",
+            "Number of Cameras"
+        ]
+    },
+    {
+        "name": "Cameras > Security Cameras & Systems > CCTV Security Systems",
+        "mandatory_attribute": [
+            "Brand",
+            "Connectivity",
+            "Storage Capacity",
+            "Number Of Sensors"
+        ]
+    },
+    {
+        "name": "Cameras > Security Cameras & Systems > IP Security Cameras",
+        "mandatory_attribute": [
+            "Brand",
+            "Number of channels",
+            "Number of Cameras"
+        ]
+    },
+    {
+        "name": "Cameras > Security Cameras & Systems > Dummy Cameras",
+        "mandatory_attribute": [
+            "Brand",
+            "Number of Cameras",
+            "Number of channels"
+        ]
+    },
+    {
+        "name": "Cameras > Drones > Drones",
+        "mandatory_attribute": [
+            "Brand",
+            "Model",
+            "App-Controlled",
+            "Integrated GPS",
+            "Integrated Camera"
+        ]
+    },
+    {
+        "name": "Cameras > Drones > Drone Accessories > Drone Bags and Cases",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Drones > Drone Accessories > Drone Batteries",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Drones > Drone Accessories > Remote Controllers & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Cameras > Drones > Drone Accessories > Propellers & Parts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Food Preparation > Blenders",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Food Preparation > Mixers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Food Preparation > Grinders",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Food Preparation > Food Processors",
+        "mandatory_attribute": [
+            "Brand",
+            "Food Processor Type"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Coffee Machines & Accessories > Coffee Grinders",
+        "mandatory_attribute": [
+            "Brand",
+            "Grinder Type"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Coffee Machines & Accessories > Coffee Machines",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Coffee Machines & Accessories > Tea Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Coffee Machines & Accessories > Milk Frothers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Kettles & Thermo Pots > Electric Kettles",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Kettles & Thermo Pots > Thermo Pots",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Juicers & Fruit Extractors",
+        "mandatory_attribute": [
+            "Brand",
+            "Operating mode"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Bread Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Pasta & Noodle Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Other Cookware",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Egg Boilers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Pizza Maker",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Takoyaki Maker",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Pancake Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Donut Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Cupcake makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Ice-Cream Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Waffle Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Crepe Maker",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Food Dehydrators",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Sparkling Beverage & Soda Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Popcorn Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Chocolate Fondue Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Yogurt Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Cotton Candy Maker",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Ice Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Electric Lunch Boxes",
+        "mandatory_attribute": [
+            "Brand",
+            "Capacity (Litres)"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Food Purifiers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Egg Master",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Soya Milk Maker",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Bean Sprout Maker",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Other Small Kitchen Appliances > Breakfast Makers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Woks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Suki Pots",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Toasters",
+        "mandatory_attribute": [
+            "Brand",
+            "Indicator Light(s)"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Slow Cookers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Food Steamers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Pans",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Multi cookers",
+        "mandatory_attribute": [
+            "Brand",
+            "Operating mode"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Contact Grills",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Sandwich Makers & Presses",
+        "mandatory_attribute": [
+            "Brand",
+            "Indicator Light(s)"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Rice Cookers",
+        "mandatory_attribute": [
+            "Brand",
+            "Operating mode"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Pressure cookers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Knives & Sharpeners > Electric Knives",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Electric Knives & Sharpeners > Knife Sharpeners",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Fryers > Deep Fryers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Small Kitchen Appliances > Fryers > Air Fryers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Cooling & Heating > Air Conditioning > Air Curtain",
+        "mandatory_attribute": [
+            "Brand",
+            "Model"
+        ]
+    },
+    {
+        "name": "Home Appliances > Cooling & Heating > Air Conditioning > Air Conditioners",
+        "mandatory_attribute": [
+            "Brand",
+            "Model",
+            "Inverter",
+            "Power Consumption",
+            "Type Air Conditioner",
+            "Room Size",
+            "Air Conditioner Rated Capacity (BTUs)",
+            "Connecting Wire",
+            "Kit Included"
+        ]
+    },
+    {
+        "name": "Home Appliances > Cooling & Heating > Air Conditioning > Air Coolers",
+        "mandatory_attribute": [
+            "Brand",
+            "Model",
+            "Air Cooler Features",
+            "Capacity (Litres)"
+        ]
+    },
+    {
+        "name": "Home Appliances > Cooling & Heating > Air Treatment > Air Purifiers",
+        "mandatory_attribute": [
+            "Brand",
+            "Model",
+            "Room Size"
+        ]
+    },
+    {
+        "name": "Home Appliances > Cooling & Heating > Air Treatment > Dehumidifiers",
+        "mandatory_attribute": [
+            "Brand",
+            "Room Size"
+        ]
+    },
+    {
+        "name": "Home Appliances > Cooling & Heating > Air Treatment > Humidifiers",
+        "mandatory_attribute": [
+            "Brand",
+            "Capacity (Litres)",
+            "Room Size"
+        ]
+    },
+    {
+        "name": "Home Appliances > Cooling & Heating > Fans",
+        "mandatory_attribute": [
+            "Brand",
+            "Fan Type",
+            "Power Consumption",
+            "Number Of Blades"
+        ]
+    },
+    {
+        "name": "Home Appliances > Cooling & Heating > Heaters",
+        "mandatory_attribute": [
+            "Brand",
+            "Model",
+            "Room Size"
+        ]
+    },
+    {
+        "name": "Home Appliances > Cooling & Heating > Water Heaters",
+        "mandatory_attribute": [
+            "Brand",
+            "Model",
+            "Water Heater Type"
+        ]
+    },
+    {
+        "name": "Home Appliances > Cooling & Heating > Exhaust Fans",
+        "mandatory_attribute": [
+            "Brand",
+            "Model",
+            "Number Of Blades"
+        ]
+    },
+    {
+        "name": "Home Appliances > Irons & Garment Steamers > Irons",
+        "mandatory_attribute": [
+            "Brand",
+            "Indicator Light(s)"
+        ]
+    },
+    {
+        "name": "Home Appliances > Irons & Garment Steamers > Garment Steamers",
+        "mandatory_attribute": [
+            "Brand",
+            "Indicator Light(s)"
+        ]
+    },
+    {
+        "name": "Home Appliances > Irons & Garment Steamers > Garment Presses",
+        "mandatory_attribute": [
+            "Brand",
+            "Indicator Light(s)"
+        ]
+    },
+    {
+        "name": "Home Appliances > Vacuums & Floor Care > Steam Mops",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Vacuums & Floor Care > Electric Brooms",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Vacuums & Floor Care > Floor Polishers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Vacuums & Floor Care > Vacuum Cleaners",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Refrigerators",
+        "mandatory_attribute": [
+            "Brand",
+            "Model",
+            "Number of doors",
+            "Refrigerator Type",
+            "Net Width (mm)",
+            "Refrigerator Capacity (L)",
+            "Net Height (mm)",
+            "Net Depth (mm)"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Freezers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Wine Cellars",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Dishwashers & Parts > Dish Dryers & Sterilizers",
+        "mandatory_attribute": [
+            "Brand",
+            "Capacity (Litres)"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Dishwashers & Parts > Dishwashers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Warming Drawers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Cooktops & Ranges",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Ovens",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Range Hoods",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Water Dispensers Purifiers & Filters > Water Dispensers",
+        "mandatory_attribute": [
+            "Brand",
+            "Number of Filters"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Water Dispensers Purifiers & Filters > Water Purifiers",
+        "mandatory_attribute": [
+            "Brand",
+            "Number of Filters"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Gas Stoves",
+        "mandatory_attribute": [
+            "Brand",
+            "Ignition Type"
+        ]
+    },
+    {
+        "name": "Home Appliances > Kitchen Appliances > Microwaves",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Sewing Machines",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Washers & Dryers > Washing Machines",
+        "mandatory_attribute": [
+            "Brand",
+            "Model",
+            "Maximum Spin Speed (RPM)",
+            "Top Type",
+            "Type Washing",
+            "Washing Capacity (kg)",
+            "Drum Type"
+        ]
+    },
+    {
+        "name": "Home Appliances > Washers & Dryers > Combo Washer Dryer",
+        "mandatory_attribute": [
+            "Brand",
+            "Drum Type"
+        ]
+    },
+    {
+        "name": "Home Appliances > Washers & Dryers > Clothes Dryers",
+        "mandatory_attribute": [
+            "Brand",
+            "Drum Type",
+            "Washing Machine Type"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Air Conditioner Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Air Purifier Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Fan Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Water Heater Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Ventilation Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Sewing Machine Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Vacuum Cleaners Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Dishwasher Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Freezer Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Range Hood Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Cooktop Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Microwave Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Wall Oven Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Gas Stove Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Refrigerator Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Washer & Dryer Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Small Kitchen Appliance Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Coffee Machine Accessories",
+        "mandatory_attribute": [
+            "Brand",
+            "Capacity (Litres)"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Rice Cookers and Steamers Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Water Dispenser Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Water Purifiers & Filters Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Fryer and Air Fryer Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Toasters and Sandwich Makers Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Specialty Cookware Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Home Appliances > Appliances Parts & Accessories > Humidifer Parts & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Bath & Body Accessories",
+        "mandatory_attribute": [
+            "Brand",
+            "Ideal Usage",
+            "Fragrance"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Gifts & Value Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Ideal Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Body & Massage Oils",
+        "mandatory_attribute": [
+            "Brand",
+            "Ideal Usage",
+            "Fragrance"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Body Scrubs",
+        "mandatory_attribute": [
+            "Brand",
+            "Ideal Usage",
+            "Fragrance"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Body Soaps & Shower Gels",
+        "mandatory_attribute": [
+            "Brand",
+            "Ideal Usage",
+            "Country of origin",
+            "Fragrance"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Hair Removal",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Ideal Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Body Moisturizers",
+        "mandatory_attribute": [
+            "Brand",
+            "Ideal Usage",
+            "Fragrance"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Sun Care for Body > Tanning Oil & Self Tanners",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Ideal Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Breast Care",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Ideal Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Hand Care > Hand Washes and Sanitizers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Hand Care > Lotion",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Ideal Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Hand Care > Hand Masks",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Ideal Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Talcum Powder",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Ideal Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Foot Care > Foot Deodorant",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Ideal Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Foot Care > Lotion, Cream and Scrubs",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Ideal Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Bath & Body > Foot Care > Foot Masks",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Ideal Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Body > Bronzers",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Body > Shimmers and Glitters",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Eyes > Eyeliners",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Eyes > Eye Primers",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Eyes > Eye Shadow",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Eyes > Eyebrows",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Eyes > Mascaras",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Face > Blushes",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Face > Bronzers",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Face > Compacts & Powder",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Face > Concealer",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Face > Foundation",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Face > Makeup Base & Primer",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Face > Tinted Moisturizer",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Face > Highlighters & Contour",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Face > BB & CC",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Face > Setting & Finishing Spray",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Lips > Lip Gloss",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Lips > Lip Liners",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Lips > Lipsticks",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Lips > Liquid Lipsticks",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Lips > Lip Tint",
+        "mandatory_attribute": [
+            "Brand",
+            "Texture",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > Makeup Brushes & Sets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > Cotton Balls, Pads and Buds",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > Eyelash Curlers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > Oil Blotters",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > Makeup Bags & Organizers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > Mirrors",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > Sponges & Applicators",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > Pencil Sharpeners",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > Tweezers & Razors",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > Makeup Brush Cleaners",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > Eyelid Tape & Glue",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Accessories > False Eyelashes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Palettes & Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Makeup Removers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Nails > Artificial Nails",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Nails > Manicure Kits & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Nails > Nail Art & Stickers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Nails > Nail Polish",
+        "mandatory_attribute": [
+            "Brand",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Nails > Nail Polish Remover",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Nails > Top Coat & Base Coat",
+        "mandatory_attribute": [
+            "Brand",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Nails > Nail Polish Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Nails > Nail & Cuticle Care",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Makeup > Gifts & Value Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "sms or email"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Face Mask & Packs",
+        "mandatory_attribute": [
+            "Brand",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Face Scrubs & Exfoliators",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Facial Cleansers",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Skin Type",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Gifts & Value Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Skin Type",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Sunscreen and Aftersun",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Sun Protection",
+            "Skin Type"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Toner & Mists",
+        "mandatory_attribute": [
+            "Brand",
+            "Product Form",
+            "Weight (g) / Vol. (ml)",
+            "Skin Type",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Serum & Essence",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Skin Type",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Eye Care",
+        "mandatory_attribute": [
+            "Brand",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Moisturizers and Cream > Night Cream",
+        "mandatory_attribute": [
+            "Brand",
+            "Skin Type",
+            "Product Form",
+            "Country of origin",
+            "Weight (g) / Vol. (ml)"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Moisturizers and Cream > Facial Oils",
+        "mandatory_attribute": [
+            "Brand",
+            "Skin Type",
+            "Product Form",
+            "Country of origin",
+            "Weight (g) / Vol. (ml)"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Moisturizers and Cream > Neck & Decollete",
+        "mandatory_attribute": [
+            "Brand",
+            "Product Form",
+            "Weight (g) / Vol. (ml)",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Moisturizers and Cream > Moisturizers",
+        "mandatory_attribute": [
+            "Brand",
+            "Product Form",
+            "Weight (g) / Vol. (ml)",
+            "Skin Type",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Skin Care > Lip Balm and Treatment",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Weight Management > Appetite Suppressant",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Weight Management > Carb Blockers",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Weight Management > Meal Replacement",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Weight Management > Gifts & Value Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Weight Management > Fat Blockers & Burners",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Weight Management > Slimming Beverages",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Beauty Supplements > Hair & Nail",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Beauty Supplements > Skin Nourishment",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Beauty Supplements > Whitening",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Beauty Supplements > Acne Care",
+        "mandatory_attribute": [
+            "Brand",
+            "Product Form",
+            "Weight (g) / Vol. (ml)",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Beauty Supplements > Breast Enlargement",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Ideal Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Beauty Supplements > Gifts & Value Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Anti-Aging",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Bone & Joint Support",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Brain & Memory",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Digestive Care",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Heart & Blood Pressure",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Immunity",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Detoxification",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Stress, Sleep, and Anxiety",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Women's Health",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Diabetic Support",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Multivitamins",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Pregnancy Care",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Sexual Health",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Vision Care",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Men's Health",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Gifts & Value Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Herbs & Traditional Medicine",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Food Supplements > Well Being > Nutritional Foods & Drinks",
+        "mandatory_attribute": [
+            "Brand",
+            "Flavor"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Fragrances > Men",
+        "mandatory_attribute": [
+            "Brand",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Fragrances > Unisex",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Fragrances > Women",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Hair Care > Shampoo",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Hair Type",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Hair Care > Hair Care Accessories > Wig & Hair Extensions & Pads",
+        "mandatory_attribute": [
+            "Brand",
+            "Hair Type"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Hair Care > Hair Care Accessories > Hair Brushes & Combs",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Hair Care > Hair Care Accessories > Hair Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Hair Care > Hair Coloring",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Product Form",
+            "Shade",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Hair Care > Hair Styling",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Hair Type",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Hair Care > Hair Treatments",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Hair Type",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Hair Care > Hair Oils",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Hair Care > Gifts & Value Sets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Hair Care > Conditioner",
+        "mandatory_attribute": [
+            "Brand",
+            "Hair Type",
+            "Weight (g) / Vol. (ml)",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Skin Care Tools > Body",
+        "mandatory_attribute": [
+            "Brand",
+            "Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Skin Care Tools > Face",
+        "mandatory_attribute": [
+            "Brand",
+            "Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Hair Styling Appliances > Curling Irons & Wands",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Hair Styling Appliances > Hair Dryers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Hair Styling Appliances > Flat Irons",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Hair Styling Appliances > Multi-stylers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Hair Styling Appliances > Hair Styling Sets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Hair Styling Appliances > Straightening Combs & Brushes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Hair Removal Appliances",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Body Slimming",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Portable Saunas",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Foot Relief Accessories & Tools",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Hair Removal Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Beauty Tools > Body Slimming & Electric Massagers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Hair Care > Shampoo",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Fragrance",
+            "Country of origin",
+            "Pack Type"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Hair Care > Hair Coloring",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Fragrance",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Hair Care > Men Hair Styling",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Fragrance",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Hair Care > Hair Treatments",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Fragrance",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Hair Care > Conditioner",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Country of origin",
+            "Weight (g) / Vol. (ml)"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Hair Care > Gifts & Value Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Bath & Body > Body Moisturizers",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Fragrance",
+            "Country of origin",
+            "Area Of Use"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Bath & Body > Body Scrub",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Fragrance",
+            "Country of origin",
+            "Area Of Use"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Deodorants",
+        "mandatory_attribute": [
+            "Brand",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Skin Care > Serum & Essence",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Skin Type",
+            "Country of origin",
+            "Weight (g) / Vol. (ml)"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Skin Care > Gifts & Value Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Skin Type",
+            "Fragrance"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Skin Care > Facial Cleanser",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Skin Type",
+            "Fragrance",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Skin Care > Face Scrubs & Exfoliators",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Skin Type",
+            "Fragrance",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Skin Care > Face Mask & Packs",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Skin Type",
+            "Fragrance",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Skin Care > Moisturizers and Cream > Facial Oils",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Skin Type"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Skin Care > Moisturizers and Cream > Moisturizers",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Skin Type",
+            "Fragrance",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Skin Care > Moisturizers and Cream > Night Cream",
+        "mandatory_attribute": [
+            "Brand",
+            "Fragrance",
+            "Skin Type",
+            "Country of origin",
+            "Weight (g) / Vol. (ml)"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Skin Care > Toners & Mists",
+        "mandatory_attribute": [
+            "Brand",
+            "Weight (g) / Vol. (ml)",
+            "Skin Type",
+            "Fragrance",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Shaving & Grooming > Aftershave",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Shaving & Grooming > Shavers",
+        "mandatory_attribute": [
+            "Brand",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Shaving & Grooming > Shaving Brushes",
+        "mandatory_attribute": [
+            "Brand",
+            "Country of origin"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Shaving & Grooming > Creams, Foams & Gels",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Shaving & Grooming > Trimmers Groomers & Clippers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Men's Care > Shaving & Grooming > Razors Blades & Cartridges",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Deodorants",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Eye Care > Eye Drops",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Oral Care > Dental Flosses & Sticks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Oral Care > Electric Toothbrushes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Oral Care > Mouthwash",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Oral Care > Oral Care Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Oral Care > Teeth whitening",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Oral Care > Toothbrushes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Oral Care > Toothpaste",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Oral Care > Toothbrush Replacement Heads",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Oral Care > Denture Care",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Feminine Care > Feminine Wash",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Feminine Care > Vaginal Cream",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Feminine Care > Panty Liners",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Feminine Care > Pregnancy & Fertility",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Feminine Care > Sanitary Napkins",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Feminine Care > Tampons",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Feminine Care > Menstrual Cups",
+        "mandatory_attribute": [
+            "Brand",
+            "Washable"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Adult Diapers & Incontinence",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Personal Safety & Security",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Personal Care > Ear Care",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Medical Supplies > Scale & Body Fat Analyzers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Medical Supplies > Compression Stockings",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Medical Supplies > First Aid Supplies",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Medical Supplies > Health Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Medical Supplies > Nebulizer & Aspirators",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Medical Supplies > Ointments and Creams",
+        "mandatory_attribute": [
+            "Brand",
+            "Area Of Use"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Medical Supplies > Pedometers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Medical Supplies > Injury Support and Braces",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Medical Supplies > Wheelchairs",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Medical Supplies > Hospital Beds",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Medical Supplies > Stethoscopes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Services > Beauty Services > Salon Services",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Services > Tattoo > Tattoo Accessories",
+        "mandatory_attribute": [
+            "Brand",
+            "Usage"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Services > Freelancer Services",
+        "mandatory_attribute": [
+            "Brand",
+            "Color Family"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Services > Photography Services",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Services > Event Management",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Sexual Wellness > Condoms",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Sexual Wellness > Lubricants",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Health & Beauty > Sexual Wellness > Sensual Toys",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Dresses",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Skirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Socks & Tights",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Swimwear & Beachwear > Beachwear & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Swimwear & Beachwear > Bikinis",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Swimwear & Beachwear > Swimsuits",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Jeans",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Style",
+            "Clothing Material",
+            "Jeans Fit Type"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Tops > Tanks & Camisoles",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Tops > T-Shirts",
+        "mandatory_attribute": [
+            "Brand",
+            "Collar Type",
+            "Pattern",
+            "Clothing Material",
+            "Sleeves"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Tops > Shirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Tops > Tunics",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Sweaters & Cardigans",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Pants & Leggings > Chinos",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Material",
+            "Material"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Pants & Leggings > Pants",
+        "mandatory_attribute": [
+            "Brand",
+            "Fit Type",
+            "Pattern",
+            "Clothing Material",
+            "Material"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Pants & Leggings > Leggings",
+        "mandatory_attribute": [
+            "Brand",
+            "Pattern",
+            "Clothing Material",
+            "Material"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Pants & Leggings > Joggers",
+        "mandatory_attribute": [
+            "Brand",
+            "Fit Type",
+            "Pattern",
+            "Clothing Material",
+            "Material"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Pants & Leggings > Jeggings",
+        "mandatory_attribute": [
+            "Brand",
+            "Pattern",
+            "Clothing Material",
+            "Material",
+            "Fit Type",
+            "Length"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Jackets & Coats > Blazers & Vests",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Jackets & Coats > Denim Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Jackets & Coats > Leather & Faux Leather Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Jackets & Coats > Winter Jackets & Coats",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Jackets & Coats > Rain Coats & Trenches",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Jackets & Coats > Lightweight Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Jackets & Coats > Fur & Faux Fur Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Jackets & Coats > Down Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Jackets & Coats > Bomber Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Jumpsuits & Playsuits",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Hoodies & Sweatshirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Traditional Clothing > Unstitched Fabric",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Traditional Clothing > Kurtas & Shalwar Kameez > Shalwar Kameez",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Traditional Clothing > Kurtas & Shalwar Kameez > Kurtis",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Traditional Clothing > Kurtas & Shalwar Kameez > Shalwar & Pyjamas",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Traditional Clothing > Dupattas Stoles & Shawls",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Traditional Clothing > Formal Wear > Blouses",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Traditional Clothing > Formal Wear > Bridal Dress",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Traditional Clothing > Formal Wear > Party Wear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Traditional Clothing > Formal Wear > Sarees",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Traditional Clothing > Palazzo Pants & Culottes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Shorts > Denim",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Shorts > Tailored",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Shorts > Casual",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Plus Size > Dresses",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Plus Size > Tops",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Plus Size > Bottoms",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Plus Size > Intimates",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Clothing > Plus Size > Swimwear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Heels > Pumps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Heels > Heeled Sandals",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Heels > Mules",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Sandals > Flat Sandals",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Slides & Flip Flops > House Slippers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Slides & Flip Flops > Slides",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Slides & Flip Flops > Flip Flops",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Sneakers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Flat Shoes > Ballet Flats",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Flat Shoes > Boat Shoes & Loafers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Flat Shoes > Slip-Ons",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Flat Shoes > Oxfords & Lace-Ups",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Flat Shoes > Mary Janes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Wedges > Wedge Sandals",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Wedges > Closed-Toe Wedges",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Wedges > Slides & Mules",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Boots > Winter Boots",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Boots > Rain Boots",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Shoes Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Shoes > Khussa & Kohlapuri",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Accessories > Belts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Accessories > Hats & Caps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Accessories > Hair Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Accessories > Umbrellas",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Accessories > Scarves & Mufflers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Accessories > Gloves",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Accessories > Masks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Lingerie, Sleep & Lounge > Bras",
+        "mandatory_attribute": [
+            "Brand",
+            "Bra Type",
+            "Pattern",
+            "Clothing Material"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Lingerie, Sleep & Lounge > Panties",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Lingerie, Sleep & Lounge > Sexy Lingerie",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Lingerie, Sleep & Lounge > Shapewear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Lingerie, Sleep & Lounge > Sleep & Loungewear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Lingerie, Sleep & Lounge > Robes & Bodysuits",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Lingerie, Sleep & Lounge > Lingerie Sets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Lingerie, Sleep & Lounge > Camisoles & Slips",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Lingerie, Sleep & Lounge > Bodysuits",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Lingerie, Sleep & Lounge > Lingerie Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Women > Lingerie, Sleep & Lounge > Thermal & Shapewear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Sweaters & Cardigans > Sweaters",
+        "mandatory_attribute": [
+            "Brand",
+            "Collar Type",
+            "Clothing Material"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Sweaters & Cardigans > Cardigans",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Material"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Jackets & Coats > Denim Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Jackets & Coats > Leather Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Jackets & Coats > Bomber Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Jackets & Coats > Lightweight Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Jackets & Coats > Winter Jackets & Coats",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Jackets & Coats > Rain Coats & Trenches",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Jackets & Coats > Down Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Jeans",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Style",
+            "Jeans Fit Type",
+            "Clothing Material"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Suits > Suits",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Suits > Suit Jackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Suits > Suit Pants",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Suits > Waistcoats & Vests",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Swimwear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Pants > Chinos",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Pants > Cargo",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Style",
+            "Fit Type",
+            "Clothing Material"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Pants > Joggers & Sweats",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Material"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Pants > Harem Pants",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Casual Tops > T-Shirts",
+        "mandatory_attribute": [
+            "Brand",
+            "Collar Type",
+            "Sleeves",
+            "Fit Type"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Casual Tops > Tanks",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Material"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Underwear > Briefs",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Underwear > Nightwear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Underwear > Thongs & Others",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Underwear > Trunks & Boxers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Underwear > Thermal",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Shirts > Casual Shirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Shirts > Formal Shirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Polo T-Shirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Traditional Clothing > Lungi",
+        "mandatory_attribute": [
+            "Brand",
+            "Color Family"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Traditional Clothing > Kurtas",
+        "mandatory_attribute": [
+            "Brand",
+            "Color Family"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Traditional Clothing > Sherwani",
+        "mandatory_attribute": [
+            "Brand",
+            "Color Family"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Traditional Clothing > Unstitched Fabric",
+        "mandatory_attribute": [
+            "Brand",
+            "Color Family"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Traditional Clothing > Shawls",
+        "mandatory_attribute": [
+            "Brand",
+            "Color Family"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Shorts > Casual",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Shorts > Denim",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Socks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Hoodies & Sweatshirts",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Material"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Clothing > Tracksuits",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Sneakers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Flip Flops & Sandals > House Slippers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Flip Flops & Sandals > Flip Flops",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Flip Flops & Sandals > Sandals",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Flip Flops & Sandals > Slides",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Boots > Ankle Boots",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Boots > Cowboy & Biker Boots",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Boots > Rain Boots",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Shoes Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Formal Shoes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Khusa & Kolapuri > Kohlapuris",
+        "mandatory_attribute": [
+            "Brand",
+            "Color Family"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Shoes > Slip-Ons & Loafers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Accessories > Ties & Bow Ties > Ties",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Accessories > Ties & Bow Ties > Bow Ties",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Accessories > Scarves",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Accessories > Umbrellas",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Accessories > Belts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Accessories > Hats & Caps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Accessories > Gloves",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Accessories > Braces",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Accessories > Masks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Men > Ethnic Wear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Shoes > Sneakers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Shoes > Formal Shoes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Shoes > Flats & Slip-Ons",
+        "mandatory_attribute": [
+            "Brand",
+            "Shoes Closure Type"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Shoes > Boots",
+        "mandatory_attribute": [
+            "Brand",
+            "Boot Type",
+            "Shoes Closure Type",
+            "Ankle Height"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Shoes > Shoes Accessories",
+        "mandatory_attribute": [
+            "Brand",
+            "Accessory Type",
+            "Material"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Shoes > Flip Flops, Slides & Sandals",
+        "mandatory_attribute": [
+            "Brand",
+            "Material"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Accessories > Belts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Accessories > Hats & Caps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Accessories > Umbrellas & Rainwear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Accessories > Gloves",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Accessories > Hair Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Clothing > Tops",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Clothing > Bottoms",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Clothing > Dresses",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Clothing > Sweaters & Cardigans",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Clothing > Jackets & Coats",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Clothing > Socks & Tights",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Clothing > Underwear & Sleepwear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Clothing > Shorts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Clothing > Hoodies",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Girls > Clothing > Swimsuits",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Shoes > Sneakers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Shoes > Formal Shoes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Shoes > Slip-Ons & Loafers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Shoes > Boots",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Shoes > Shoes Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Shoes > Flip Flops, Slides & Sandals",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Accessories > Belts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Accessories > Hats & Caps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Accessories > Umbrellas & Rainwear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Accessories > Others",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Accessories > Gloves, Scarves & Cold Weather",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Clothing > T-Shirts & Shirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Clothing > Pants & Jeans",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Clothing > Sweaters & Cardigans",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Clothing > Jackets & Coats",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Clothing > Underwear & Socks > Underwear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Clothing > Underwear & Socks > Socks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Clothing > Sleepwear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Clothing > Shorts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Clothing > Kurtas & Shalwar Kameez",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Clothing > Hoodies",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Boys > Clothing > Swimwear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Clothing > Hoodies & Sweatshirts",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Material"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Clothing > Couple & Family Sets > T-Shirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Clothing > Couple & Family Sets > Shirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Clothing > Couple & Family Sets > Cardigans & Sweaters",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Clothing > Couple & Family Sets > Hoodies & Sweatshirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Clothing > Couple & Family Sets > Beachwear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Clothing > Shirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Clothing > Cardigans & Sweaters",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Clothing > T-Shirts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Clothing > Unstitched Fabric",
+        "mandatory_attribute": [
+            "Brand",
+            "Color Family"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Accessories > Hats & Caps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Shoes > Sneakers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Shoes > Shoes Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Shoes > Flip Flops & Sandals > Flip Flops",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Unisex > Shoes > Flip Flops & Sandals > House Slippers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Kids Unisex > Accessories > Belts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Kids Unisex > Accessories > Hats & Caps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Kids Unisex > Accessories > Gloves, Scarves & Cold Weather",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Kids Unisex > Accessories > Umbrellas & Rainwear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Kids Unisex > Clothing > Hoodies",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Kids Unisex > Shoes > Sneakers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Kids Unisex > Shoes > Shoes Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Kids Unisex > Shoes > Flip Flops, Slides & Sandals",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Fashion > Kids Unisex > Shoes > Rain Boots",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Men Bags > Messenger Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Pattern",
+            "Closure Type",
+            "Compartment",
+            "Compatible Laptop Size",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Men Bags > Business Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Material",
+            "Closure Type",
+            "Compartment",
+            "Compatible Laptop Size",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Men Bags > Backpacks > Fashion backpacks",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Style",
+            "Pattern"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Men Bags > Crossbody Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Style",
+            "Pattern",
+            "Material",
+            "Closure Type",
+            "Compartment",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Men Bags > Tote Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Pattern",
+            "Material",
+            "Closure Type",
+            "Compartment",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Men Bags > Wallets & Accessories > Coin Holders & Pouches",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Compartment",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Men Bags > Wallets & Accessories > Card Holders",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Compartment",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Men Bags > Wallets & Accessories > Key Holders",
+        "mandatory_attribute": [
+            "Brand",
+            "Dust Resistant"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Men Bags > Wallets & Accessories > Money Clips",
+        "mandatory_attribute": [
+            "Brand",
+            "Dust Resistant"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Men Bags > Wallets & Accessories > Wallets > Fashion Wallets",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Compartment",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Unisex Bags > Backpacks",
+        "mandatory_attribute": [
+            "Brand",
+            "Pattern"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Unisex Bags > Coin Purses & Pouches",
+        "mandatory_attribute": [
+            "Brand",
+            "Pattern",
+            "Material"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Unisex Bags > Card Holders",
+        "mandatory_attribute": [
+            "Brand",
+            "Compartment",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Unisex Bags > Key Holders",
+        "mandatory_attribute": [
+            "Brand",
+            "Material"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Unisex Bags > Crossbody Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Clothing Style",
+            "Pattern",
+            "Material",
+            "Closure Type",
+            "Compartment",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Kids Bags > Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Kids Bags > Backpacks Trolley",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Compartment",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Kids Bags > Backpacks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Kids Bags > Accessories",
+        "mandatory_attribute": [
+            "Brand",
+            "Dust Resistant"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Other Travel Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Toiletries & Cosmetics Bags",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Organizer Sets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Underwear Organizers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Shoe Bags",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Garment Bags",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Travel Size Bottles & Containers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Compression Bags",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Luggage Locks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Luggage Scales",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Passport Covers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Travel Wallets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Luggage protectors & covers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Luggage Straps & Tags > Luggage Straps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Luggage Straps & Tags > Luggage Tags",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Travel adapters & Converters",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Travel pillows & eye masks > Travel sets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Travel pillows & eye masks > Travel pillows",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Travel pillows & eye masks > Eye masks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Travel pillows & eye masks > Ear plugs",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Luggage Carts",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Accessories > Other Packing Organizers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Laptop Bags > Briefcases",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Compartment",
+            "Compatible Laptop Size",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Laptop Bags > Messenger Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Compartment",
+            "Compatible Laptop Size",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Laptop Bags > Laptop cases",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Compartment",
+            "Compatible Laptop Size",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Laptop Bags > Laptop Backpacks",
+        "mandatory_attribute": [
+            "Brand",
+            "Laptop size",
+            "Material",
+            "Closure Type",
+            "Compatible Laptop Size",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Bags > Weekender bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Bags > Waist Packs",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Travel Bags > Foldable & Drawstring bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Luggage > Suitcases",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Dust Resistant",
+            "Gender",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Luggage > Luggage Sets",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Dust Resistant",
+            "Gender",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Travel > Luggage > Kids Luggage",
+        "mandatory_attribute": [
+            "Brand",
+            "Closure Type",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Women Bags > Wallets & Accessories > Bag Charms & Accessories",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Women Bags > Wallets & Accessories > Wallets",
+        "mandatory_attribute": [
+            "Brand",
+            "Material"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Women Bags > Wallets & Accessories > Coin Purses & Pouches",
+        "mandatory_attribute": [
+            "Brand",
+            "Material"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Women Bags > Wallets & Accessories > Card Holders",
+        "mandatory_attribute": [
+            "Brand",
+            "Material"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Women Bags > Wallets & Accessories > Key Holders",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Women Bags > Tote Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Material",
+            "Occasion"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Women Bags > Cross Body & Shoulder Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Material",
+            "Occasion",
+            "Closure Type",
+            "Compartment",
+            "Dust Resistant",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Women Bags > Top-Handle Bags",
+        "mandatory_attribute": [
+            "Brand",
+            "Material",
+            "Occasion"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Women Bags > Clutches",
+        "mandatory_attribute": [
+            "Brand",
+            "Material",
+            "Closure Type",
+            "Compartment",
+            "Lockable"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Women Bags > Backpacks",
+        "mandatory_attribute": [
+            "Brand",
+            "Material"
+        ]
+    },
+    {
+        "name": "Bags and Travel > Women Bags > Wristlets",
+        "mandatory_attribute": [
+            "Brand",
+            "Material",
+            "Closure Type",
+            "Compartment",
+            "Lockable",
+            "Watch's water resistance"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Yoga > Blocks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Yoga > Foam Rollers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Yoga > Yoga Mat Bags",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Yoga > Yoga Mats",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Yoga > Straps",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Pilates > Chairs",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Pilates > Fitness Circles",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Pilates > Flexbands",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Pilates > Reformers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Pilates > Spine Supporters",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Cardio Equipment > Elliptical Trainers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Cardio Equipment > Exercise Bikes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Cardio Equipment > Rowing Machines",
+        "mandatory_attribute": [
+            "Brand",
+            "Model"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Cardio Equipment > Step Machines",
+        "mandatory_attribute": [
+            "Brand",
+            "Model"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Cardio Equipment > Treadmills",
+        "mandatory_attribute": [
+            "Brand",
+            "Battery Required",
+            "Weight Capacity",
+            "Foldable",
+            "Auto Incline"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Cardio Equipment > Home Fitness Equipment",
+        "mandatory_attribute": [
+            "Brand",
+            "Model"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Cardio Equipment > Vibration Machines",
+        "mandatory_attribute": [
+            "Brand",
+            "Model"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Strength Training Equipment > Benches",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Strength Training Equipment > Core & Abdominal Trainers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Strength Training Equipment > Hand Strengtheners",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Strength Training Equipment > Home Gyms",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Strength Training Equipment > Pull-Up & Push-Up Bars",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Aquatic Fitness Equipment",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Balance trainers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Exercise Balls",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Exercise Bands",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Exercise Mats",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Fitness Gloves",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Jump Ropes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Jumping Trainers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Protective Flooring",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Sauna Suits",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Step Platforms",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Fitness Accessories > Twister Plates",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Running > Running Belt",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Running > Arm bands",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Running > Hydration & Waist Pack",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Running > Reflective Gear",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Running > Pedometers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Weight > Body Weights",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Weight > Weight Plates",
+        "mandatory_attribute": [
+            "Brand",
+            "weight"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Weight > Barbells",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Weight > Dumbbells",
+        "mandatory_attribute": [
+            "Brand",
+            "Sold in"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Weight > Kettlebells",
+        "mandatory_attribute": [
+            "Brand",
+            "weight"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Weight > Medicine Balls",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Exercise & Fitness > Weight > Collars",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Tennis > Grips & Tapes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Tennis > Balls",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Tennis > Equipment Bags",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Tennis > Rackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Tennis > Training Equipment",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Tennis > Strings",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Tennis > Court Equipment",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Table Tennis > Balls",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Table Tennis > Nets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Table Tennis > Bags & Covers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Table Tennis > Bats",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Table Tennis > Tables",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Badminton > Rackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Badminton > Bags & Covers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Badminton > Nets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Badminton > Strings",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Badminton > Shuttlecocks",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Badminton > Grips & Tapes",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Squash > Balls",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Squash > Rackets",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Racket Sports > Squash > Bags & Covers",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Team Sports > Football > Footballs",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Team Sports > Football > Goalkeeper Gloves",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Team Sports > Football > Shin Guards",
+        "mandatory_attribute": [
+            "Brand"
+        ]
+    },
+    {
+        "name": "Sports & Outdoors > Team Sports > Football > Goals & Nets",
+        "mandatory_attribute": [
+            "Brand"
         ]
     }
 ]

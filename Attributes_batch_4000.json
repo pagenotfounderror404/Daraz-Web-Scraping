@@ -1,0 +1,2596 @@
+[
+    {
+        "Category": "Toys & Games > Traditional Games > Game Room Games > Electronic Basketball",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Game Room Games > Foosball",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Game Room Games > Indoor Bowling",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Game Room Games > Mini Table Games",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Game Room Games > Pinball",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Game Room Games > Table Tennis",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Tile Games",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Trading Card Games > Albums",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Trading Card Games > Cases",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Trading Card Games > Protective Sleeves",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Trading Card Games > Booster Packs",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Trading Card Games > Counters",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Trading Card Games > Gameplay Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Trading Card Games > Playmats",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Trading Card Games > Decks & Sets",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Toys & Games > Traditional Games > Trading Card Games > Lots",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Number Of Players",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 Player",
+                    "2 Players",
+                    "Multiplayers"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Small Pet > Habitats & Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Small Pet > Grooming & Health",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Small Pet > Food",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums, Tanks & Bowls > Aquariums",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Shape",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Square",
+                    "Round",
+                    "Oval",
+                    "Others",
+                    "Octagon",
+                    "Rectangle",
+                    "Triangle"
+                ]
+            },
+            {
+                "name": "Tank Capacity",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "2.5-gallon",
+                    "5-gallon",
+                    "10-gallon",
+                    "15-gallon",
+                    "20-gallon",
+                    "25-gallon",
+                    "29-gallon",
+                    "30-gallon",
+                    "40-gallon",
+                    "50-gallon",
+                    "65-gallon",
+                    "75 gallon",
+                    "90-gallon",
+                    "125-gallon",
+                    "150-gallon",
+                    "180-gallon",
+                    "1.5 L"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums, Tanks & Bowls > Starter Kits",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Shape",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Square",
+                    "Round",
+                    "Oval",
+                    "Others",
+                    "Octagon",
+                    "Rectangle",
+                    "Triangle"
+                ]
+            },
+            {
+                "name": "Tank Capacity",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "2.5-gallon",
+                    "5-gallon",
+                    "10-gallon",
+                    "15-gallon",
+                    "20-gallon",
+                    "25-gallon",
+                    "29-gallon",
+                    "30-gallon",
+                    "40-gallon",
+                    "50-gallon",
+                    "65-gallon",
+                    "75 gallon",
+                    "90-gallon",
+                    "125-gallon",
+                    "150-gallon",
+                    "180-gallon",
+                    "1.5 L"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums, Tanks & Bowls > Bowls",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Shape",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Square",
+                    "Round",
+                    "Oval",
+                    "Others",
+                    "Octagon",
+                    "Rectangle",
+                    "Triangle"
+                ]
+            },
+            {
+                "name": "Tank Capacity",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "2.5-gallon",
+                    "5-gallon",
+                    "10-gallon",
+                    "15-gallon",
+                    "20-gallon",
+                    "25-gallon",
+                    "29-gallon",
+                    "30-gallon",
+                    "40-gallon",
+                    "50-gallon",
+                    "65-gallon",
+                    "75 gallon",
+                    "90-gallon",
+                    "125-gallon",
+                    "150-gallon",
+                    "180-gallon",
+                    "1.5 L"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Food",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums Accessories > Air Pumps & Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums Accessories > Water pumps",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums Accessories > Temperature control supplies",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums Accessories > Cleaning tools",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums Accessories > CO2 Equipment",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums Accessories > Feeders",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums Accessories > Filters & Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums Accessories > Decorations",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums Accessories > Lightings",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Aquariums Accessories > Other Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Fish > Medication",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Bird > Food",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Dry",
+                    "Liquid",
+                    "Canned",
+                    "Semi-Moist"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Bird > Cages & Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Lockable",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Yes",
+                    "No",
+                    "Not Specified"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Bird > Grooming & Health",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Reptile > Food",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Reptile > Habitats & Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Reptile > Heating & Lighting",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Reptile > Cleaning & Maintenance",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Reptile > Bedding",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Bed Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Eco Friendly",
+                    "Outdoor",
+                    "Standard",
+                    "Travel",
+                    "Donut",
+                    "Kennel",
+                    "Nesting",
+                    "Covered",
+                    "Orthopedic",
+                    "Elevated",
+                    "Cooling",
+                    "Heated",
+                    "Smiling Paws",
+                    "Twin Critters"
+                ]
+            },
+            {
+                "name": "Pet Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Fish",
+                    "Chicken",
+                    "Reptile",
+                    "Puppy",
+                    "Parrot",
+                    "Duck",
+                    "Squirrel",
+                    "Rabbit",
+                    "Bird",
+                    "Dog",
+                    "Cat",
+                    "Turtle",
+                    "Pigeons",
+                    "Goldfish",
+                    "Kitten"
+                ]
+            },
+            {
+                "name": "Washable",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Machine Wash",
+                    "Hand Wash",
+                    "Not Washable"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Reptile > Health & Wellness",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Reptile > Nesting & Breeding equipments",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dental & Healthcare > Dental Care > Toothbrush",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dental & Healthcare > Dental Care > Mouthwash",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dental & Healthcare > Supplements & Vitamins",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Flea & Tick > Spot Treatments",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Dog Age",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 - 3 Years",
+                    "3 - 5 Years",
+                    "5 - 8 Years",
+                    "9 and above"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Flea & Tick > Collars",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Dog Age",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 - 3 Years",
+                    "3 - 5 Years",
+                    "5 - 8 Years",
+                    "9 and above"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Flea & Tick > Oral Treatments",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Dog Age",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 - 3 Years",
+                    "3 - 5 Years",
+                    "5 - 8 Years",
+                    "9 and above"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Flea & Tick > Sprays",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Dog Age",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 - 3 Years",
+                    "3 - 5 Years",
+                    "5 - 8 Years",
+                    "9 and above"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Flea & Tick > Shampoos",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Dog Age",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 - 3 Years",
+                    "3 - 5 Years",
+                    "5 - 8 Years",
+                    "9 and above"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Carriers & Travel > Bicycle Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Carriers & Travel > Strollers",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Carriers & Travel > Carriers Purses",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Carriers & Travel > Carrier Backpacks",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Carriers & Travel > Car Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Training Aids > Bark Control & Remote Training",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Training Aids > Leashes & Collars",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Training Aids > Calming Aids",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Training Aids > Fence Systems",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Training Aids > Sport Training",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Technology > Indoor Cameras",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Beds, Mats & Houses > Beds",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Beds, Mats & Houses > Mats",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Beds, Mats & Houses > Houses",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Cages, Crates & Doors > Cages & Crates",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Cages, Crates & Doors > Cages",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Cages, Crates & Doors > Pet Doors",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clothing, Shoes & Accessories > Costumes",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clothing, Shoes & Accessories > Dresses",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clothing, Shoes & Accessories > Hair Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clothing, Shoes & Accessories > Hats",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clothing, Shoes & Accessories > Necklaces",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clothing, Shoes & Accessories > Shirts",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clothing, Shoes & Accessories > Sunglasses",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clothing, Shoes & Accessories > Clothing",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clothing, Shoes & Accessories > Boots, Socks & Paw Protectors",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clothing, Shoes & Accessories > Coats",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Bowls & Feeders > Feeding Mats",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Bowls & Feeders > Automatic Feeders",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Bowls & Feeders > Feeders & Wateners",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Bowls & Feeders > Fountains",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Bowls & Feeders > Food Storage",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Bowls & Feeders > Nursing Supplies",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Bowls & Feeders > Bowls & Diners",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Leashes, Collars & Muzzles > Leashes",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Leashes, Collars & Muzzles > Harnesses",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Leashes, Collars & Muzzles > ID tags",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Leashes, Collars & Muzzles > Muzzles",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Leashes, Collars & Muzzles > Head Collars",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Leashes, Collars & Muzzles > GPS tracker",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Leashes, Collars & Muzzles > Collars",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Leashes, Collars & Muzzles > Training Collars",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Food > Dog Milk Replacers",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Pets Flavor",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Turkey",
+                    "Not Specified",
+                    "Vanilla",
+                    "Others",
+                    "Beef",
+                    "Pork",
+                    "Lamb",
+                    "Milk",
+                    "Chicken",
+                    "Original",
+                    "Fish / Seafood",
+                    "Vegetable",
+                    "Salmon",
+                    "Bacon & Cheese",
+                    "Bacon & Peanut Butter",
+                    "Bacon",
+                    "Mixed Grill",
+                    "Picnic",
+                    "Cheezy Craze",
+                    "Beachside",
+                    "Wild West",
+                    "Chicken, Liver & Turkey",
+                    "Chicken, Turkey & Cheddar",
+                    "Shrimp, Crab & Tuna",
+                    "Beef, Liver & Cheddar",
+                    "Cheddar, Swiss & Monterey Jack",
+                    "Chicken, Beef & Salmon",
+                    "Chicken & Turkey",
+                    "Ocean Fish & Salmon",
+                    "Ocean WhiteFish and Tuna Feast",
+                    "Tender Liver & Chicken Feast",
+                    "Savory Salmon Feast",
+                    "Seafood Feast",
+                    "Chicken Feast in Gravy",
+                    "Liver & Chicken Feast in Gravy",
+                    "Tuna Feast In Gravy",
+                    "Ocean Fish Feast",
+                    "Fish & Shrimp Feast",
+                    "Chicken Feast"
+                ]
+            },
+            {
+                "name": "Food Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Dry",
+                    "Liquid",
+                    "Canned",
+                    "Semi-Moist"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Food > Dog Dry Food",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Dog Life Stage",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Puppy",
+                    "Adult",
+                    "Senior",
+                    "All Ages"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Food > Dog Wet Food > Canned",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Dry",
+                    "Liquid",
+                    "Canned",
+                    "Semi-Moist"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Food > Dog Wet Food > Pouches",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Dry",
+                    "Liquid",
+                    "Canned",
+                    "Semi-Moist"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Food > Dog Wet Food > Rolls",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Dry",
+                    "Liquid",
+                    "Canned",
+                    "Semi-Moist"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Food > Dog Food Toppers",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Dry",
+                    "Liquid",
+                    "Canned",
+                    "Semi-Moist"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Food > Dog Veterinary Diets",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Treats > Cookies, Biscuits & Snacks",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Treats > Dental Chews",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Dry",
+                    "Liquid",
+                    "Canned",
+                    "Semi-Moist"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Treats > Hooves",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Treats > Jerky",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Dry",
+                    "Liquid",
+                    "Canned",
+                    "Semi-Moist"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Treats > Rawhides",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Treats > Bones",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Dog Toys",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Grooming > Shampoos & Bath Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Dog Age",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "1 - 3 Years",
+                    "3 - 5 Years",
+                    "5 - 8 Years",
+                    "9 and above"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Grooming > Brushes & Combs",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Grooming > Claw Care",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Grooming > Perfume / Deodorizers",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Grooming > Electric Clippers",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Grooming > Scissors & Blades",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clean up & Toilet > Diapers",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clean up & Toilet > Odor & Strain Removers",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clean up & Toilet > Training Pads & Trays",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clean up & Toilet > Urine Detectors",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Dog > Clean up & Toilet > Pooper Scoopers & Bags",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Bowls & Feeders > Nursing Supplies",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Capacity",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Bowls & Feeders > Bowls & Diners",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Capacity",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Bowls & Feeders > Feeding Mats",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Capacity",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Bowls & Feeders > Automatic Feeders",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Capacity",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Bowls & Feeders > Feeders & Wateners",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Capacity",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Bowls & Feeders > Fountains",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Capacity",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Bowls & Feeders > Food Storage",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Capacity",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Clothing Shoes & Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Leashes & Collars > Collars",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Leashes & Collars > Leashes & Harnesses",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Leashes & Collars > ID tags",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Leashes & Collars > GPS tracker",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Dental & Healthcare > Dental Care",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Dental & Healthcare > Supplements & Vitamins",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Flea & Tick > Collars",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Flea & Tick > Oral Treatments",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Flea & Tick > Sprays",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Flea & Tick > Shampoos",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Flea & Tick > Spot Treatments",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Technology > Indoor Cameras",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Trees, Condos & Scratchers > Trees & Condos",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Trees, Condos & Scratchers > Scratchers Pads & Posts",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Trees, Condos & Scratchers > Ramps",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Beds, Mats & Houses > Beds",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Bed Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "name": "Washable",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Beds, Mats & Houses > Mats",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Beds, Mats & Houses > Houses",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Bed Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "name": "Washable",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cages, Crates & Doors > Pens",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Cat Age",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cages, Crates & Doors > Pet Doors",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Cat Age",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cages, Crates & Doors > Cages & Crates",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Cat Age",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Food > Cat Dry Food",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Food > Cat Wet Food > Canned",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Dry",
+                    "Liquid",
+                    "Canned",
+                    "Semi-Moist"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Food > Cat Wet Food > Pouches",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Dry",
+                    "Liquid",
+                    "Canned",
+                    "Semi-Moist"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Food > Cat Milk Replacers",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Food > Cat Veterinary Diets",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Food Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Dry",
+                    "Liquid",
+                    "Canned",
+                    "Semi-Moist"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Treats > Snacks",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Treats > Catnip",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Grooming > Shampoos & Bath Accessories",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Grooming > Brushes & Combs",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Grooming > Claw Care",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Grooming > Deodorizers",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Grooming > Electric Clippers",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Grooming > Scissors & Blades",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Toys",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Cat Toys",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Litter & Toilet > Litters",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            },
+            {
+                "name": "Soil Type",
+                "type": "list",
+                "multiselect": false,
+                "value": [
+                    "Not Specified",
+                    "Organic",
+                    "Inorganic",
+                    "Artificial",
+                    "Processed"
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Litter & Toilet > Litter Boxes",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Litter & Toilet > Litter Scoops",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Litter & Toilet > Odor & Strain Removers",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    },
+    {
+        "Category": "Pet Supplies > Cat > Litter & Toilet > Urine Detectors",
+        "Attribute": [
+            {
+                "name": "Brand",
+                "type": "list",
+                "multiselect": false,
+                "value": []
+            }
+        ]
+    }
+]
